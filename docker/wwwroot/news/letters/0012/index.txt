@@ -1,0 +1,11 @@
+info: Lisboa - Gran Canaria_Mot Kanariøyene_22 september 2003 18:15
+docu: tirsdag.xml_Tirsdag
+docu: onsdag1.xml_Onsdag natt
+docu: onsdag2.xml_Onsdag morgen
+docu: onsdag3.xml_Onsdag formiddag
+docu: torsdag1.xml_Torsdag natt
+docu: torsdag2.xml_Torsdag ettermiddag
+
+
+
+

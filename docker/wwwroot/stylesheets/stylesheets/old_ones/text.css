@@ -1,0 +1,77 @@
+body {
+    font-size: 9pt;
+}
+
+#articlecontent p {
+    line-height: 1.5;
+}
+
+h1 { font-size: 20pt; }
+
+h2 { font-size: 14pt; }
+
+h3 { font-size: 14pt; }
+
+h1, h2, h3, h4, h5, h6, dt	{
+    color: #485275;
+}
+
+h1 { font-family: lucida, "lucida console", sans-serif; }
+
+p.center { text-align: center; }
+
+p.imagetext {
+    font-weight: bold;
+    color: #5b5819;
+    clear: left;
+}
+
+p.person {
+    color: #303030;
+    float: left;
+    margin: 10px;
+}
+
+p.diffuse {
+    color: #707070;
+    bottom: 0px;
+    position: absolute;
+    font-size: 8pt;
+}
+
+p.person b {
+    font-weight: bold;
+    font-color: black;
+}
+
+dl {
+    line-height: 1.5;
+}
+
+dt {
+    font-weight: bold;
+    background-color: #b4b400;
+    border: dotted;
+    border-width: 1px;
+    border-color: #a4a400;
+    padding-left: 3px;
+    }
+
+a:link	{
+    color: #f03000;
+    text-decoration: none;
+}
+
+a:visited	{
+    color: #c03000;
+}
+
+a:active	{
+    color: #c0c000;
+}
+
+a:hover	{
+    color: #f08000;
+    text-decoration: underline;
+}
+

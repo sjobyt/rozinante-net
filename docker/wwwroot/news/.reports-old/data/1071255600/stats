@@ -1,0 +1,23 @@
+[nav]
+time: 2003-12-12 19:00+0000
+latitude: 27 46 N
+longitude: 15 42 W
+cog: 234
+sog: 6.0
+log: 2689
+24n: -
+ttg: 19 days
+dmg: 0
+dtg: 2950
+stretch: 2
+rac: none
+sfc: none
+
+[weather]
+time: 2003-12-13 12:00+0000
+type: sunny
+airtemp: 25.0
+watertemp: 23.3
+winddirection: N.A
+windspeed: N.A
+waveheight: 1

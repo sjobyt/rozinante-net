@@ -1,0 +1,9 @@
+info: Lisboa - Gran Canaria, siste del_Mot Kanariøyene_26 september 2003 19:30
+docu: fredag.xml_Fredag
+docu: lordag.xml_Lørdag
+docu: sondag.xml_Søndag
+docu: mandag.xml_Mandag
+
+
+
+

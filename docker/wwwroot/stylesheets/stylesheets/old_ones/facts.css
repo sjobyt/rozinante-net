@@ -1,0 +1,12 @@
+h1, h2 {
+    color: #626987;
+    background: #d6d295;
+    padding: 5px;
+    border: dotted;
+    border-width: 1px;
+    border-color: #84832e;
+}
+
+p {
+   margin-top: 3px;
+}

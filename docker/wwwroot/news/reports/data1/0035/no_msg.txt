@@ -1,0 +1,68 @@
+BEGIN200505061130ZD049
+
+Endelig kommet noe vind som ser ut som den skal blåse fra riktig vei mer enn noen få timer. Går derfor fremover. Har vært mye kaving siden påske og har falt langt bak i planen, men i dag går det unna. Kommet meg 1/3 del av veien nå. Regner som alltid med at resten skal gå fortere, selvom jeg nå etter ca femti dager har funnet ut noe om hodet. Det er det at når det har gått så lang tid så gjør alt liksom ikke noe lengre. Kan i grunnen være her ute for alltid nå. Skulle gjerne hatt noen ting, men ingen av de er liksom livsviktige, men må nok til Hobart ja. Ser ut til å være en grei plass.
+
+Seiler i fotsporene til de første kriminelle aborgini slakterene nå. Første lass med kriminelle var noe rundt 1000 stykker mest menn, men også mange kvinner. De reiste fra England med anløp i Kanari, Rio, Cape Town og Deretter syd for Tasmania og opp langs kysten til de kom til en bukt litt syd for nåværende Sydney, den så ikke bra ut så de reiste litt lengre og kom til bukta Sydney nå ligger i å byen ble grunnlagt, og derretter begynte nedslaktingen. Den hvite mann stormer frem i verden blodtørstige, med boka i hånd og hadde allerede slaktet litt rundt i stillehavet, i asia og Syd Afrika, men det var langt i fra nok.
+
+Egentlig hadde jeg ikke no lyst til å stoppe i Australia for alle seilere sier at de er syke i hodet når du skal klarere inn også koster alt penger så du må betale for å komme inn i landet. Først må du betale penger for å fylle ut et skjema på internett om at du kommer. Bare for å få et referansenummer i retur. Deretter må du betale tollere og sånne folk som skal sjekke at du ikke har med deg noe ulovlig mat inn i landet. Hva ulovlig mat er stort sett ferskmat, men også hermetikk så vi får se hva som skjer. Regner med jeg kommer til å få litt av et baluba siden jeg ser ut som en mellomting mellom en viking og en hvit rastafari. Det blir vel gjennomsøking av hele skuta. Lykke til sier jeg, de kommer ikke til å finne noe å sette fingeren på.
+
+Brasil og Syd Afrika er ikke akkurat regnet som noen I/V Land og der kosta det ikke en dritt noe av det, men med en gang man skal til såkalte siviliserte land så koster alt penger. En gjeng med kriminelle er hva de er ja. På Tasmania dyrker de forresten mesteparten av den "lovlige" Opium'en som finnes i verden, så kansje de er sløve og det ikke kommer til å koste så mye. Vi får se.
+
+
+”Fully Developed Wind Waves” (FDWW)
+
+Fullt utvikla vind bølger eller no slikt må det bety på Norsk.
+
+Tenkte siden gårsdagen handlet om Beaufort tabellen som er tilpasset av Den Norske Stat for at vi borgere skal tro at det blåser mer i landet vårt enn det egentlig gjør så må det noe fakta på bordet.
+
+Fakta på bordet er også viktig siden jeg leste følgende avsnitt i boken jorden rundt med Ho-Ho da de kom ut for uvær noen uker før de ankom Hobart:
+”Vi anslår lengden fra kam til kam og være 600 meter og høyden til sine 25 meter, kanskje er de mindre, men muligens også mer. Vi bør vel i grunnen si 800 meter lang og 30 meter høy, så har vi prutningsmonn, for folk tror jo så allikevel ikke mer enn en brøkdel av hva sjøfolk, jegere og fiskere forteller”
+
+Dette har sikkert fått mange mennesker til å trekke på de såkalte smilebåndene både fordi det er morsomt skrevet og fordi det virker usannsynlig. Det siste gjelder sikkert også mine skriverier. Derfor må jeg komme med noen fakta.
+
+For at bølgene skal oppnå statusen ”Fully Developed Wind Waves” er det en del faktorer som må være til stede.
+
+For det første dette gjelder kun på verdenshavene hvor det er dypt. Veldig dypt tusen eller mer meter dypt.
+
+Vinden må blåse med samme styrke fra samme rettning over en hvis periode. I dette eksemplet skal jeg ta for meg vindhastighet på 20 m/s som blåser fra vest over en tids periode på 40 timer, slik som for ca ti dager siden.
+
+Det må også være et visst område vinden blåser over. Nytter ikke med noe Skagerrak her. Mange har sikkert lagt merke til at bølger ikke kan bli særlig store i Skagerrak hvor det er dypt. Mer mot Danmark er bølgene krappere og kortere fordi det er grunnt, men de er ikke nødvendigvis større i høyde. De er bare "eklere". Dette gjelder også for Nordsjøen som ikke er særlig dyp, men kan derfor lage mye lumske bølger. Hvor det er dypt i skagerrak kan det gjerne blåse orkan fra samme rettning i dagesvis og bølgene vil ha en maks høyde da det ikke stort nok område for bølgene å utvikle seg på.
+
+Ved en vindstyrke på 20m/s må det faktisk blåse fra samme rettning med samme vindhastighet over et område på over 700 n.m i  48 timer for at bølgene skal oppnå tilstanden FDWW. Her er det nok av plass. Strekket fra Syd amerika til Syd Amerika er det største åpne farvannet i verden, men lavtrykkene og bølgene blir dempet mellom Australia/New Zealand og Antarktis og det sydlige Indiske Hav er derfor det mest utsatte havområdet i verden for store bølger og mye vind.
+
+Når disse faktorene er oppfyllt kan man trekke ut masse interessant info av en tabell som kalles "Baeufort Numbers". Om denne er "oversatt" til Norsk vet jeg ikke.
+
+Fakta som kan trekkes ut når overstående faktorer er tilstede:
+
+Gjennomsnittlig bølgeperiode (WP) er ca. 16 sekunder når FDWW er nådd ved en vindstyrke på 20m/s. Det betyr at det vil ta en bølge 16 sekunder og passere et stillestående objekt.
+
+Bølgehastigheten (WS) i knop er bølgeperiode ganget med tre. 16x3 = 48 knop.
+
+Minimum tid (X = Vindhastighet i Knop):
+0.03XX-2 = 0.03x40-2 = 46 t for å oppnå FDWW ved vindhastighet på 20 m/s
+
+Bølgelengde: 48 knop x 0.514 = 24.672 m/s x 16s = 395 meter.           -
+
+H3 Verdien er 13 meter. H3 Verdi = Gjennomsnittet av 1/3 av de største bølgene som passerer et punkt i løpet av en periode på 10 minutter.
+
+H10 Verdien er 17 meter. H10 verdi = Gjennomsnittet av 10% av de største bølgene som passerer et punkt i løpet av en periode på 10 minutter.
+
+MEN slik det alltid er med teoretiske saker som anngår naturen så står det selvfølgelig slike notabener til verdiene. Notabenen ved verdiene H3 og H10 er: Enkelte bølger kan være dobbelt så høye som både H3 verdien og H10 verdien. Det betyr altså at teorien egentlig bare er kjekk og ha.
+
+Enkelte bølger kan derfor være opptil 34 meter, hvordan dette skal måles vet jeg ikke. Hvordan jeg skal dokumenterere det vet jeg heller ikke. Det må derfor bare oppleves for å kunne forstå hva jeg egentlig mener med en kuling.
+
+ENDS DE ROzINANTE/LA7GZ
+NNNN
+
+
+
+
+
+
+
+
+
+
+
+
+

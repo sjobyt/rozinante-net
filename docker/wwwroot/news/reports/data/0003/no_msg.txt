@@ -1,0 +1,17 @@
+BEGIN200512260630ZD004
+
+Fjerde dagen på havet i dag. Julekvelden ble koselig, og i kveldingen 1. jule dag ble det mye vind og bølger. Barometeret datt ut av skalaen og det har det bare gjort en gang tidligere, men det ble i grunnen ikke så ille fordi dette lavtrykket hadde sitt opphav over Australia og var ikke ferdig med å fylle seg. Lavtrykket var så nytt at det hadde ikke rukket å bli sinna enda. Nå er det blitt sint, men nå befinner deg seg 10 grader lengre syd enn det vi er altså 600 n.m syd og litt østfor vår posisjon. Vi er nå i det nord vestlige hjørne av dette lavtrykket og siden vinden blåser med klokka rundt lavtrykk på den sydlige halvkule har vi nå derfor sydvestlig vind.
+
+NB Data fra 260100Z:
+Første veipunkt "Alban1" på veien mot Kapp Horn ligger på posisjonen 50 grader syd og 166 grader øst. Dit er det nå 429 n.m igjen (DTG). Siden vi forlot Hobart (42.5S, 147.5Ø) har utseilt effektiv distanse blitt 476 n.m (DMG). Totalt mellom Hobart og "Alban1" er distansen 905 n.m.
+
+Vi har vært på havet i fire dager og 2 timer for å være nøyaktig. Sann kurs til første veipunkt er 122 grader. Loggen står på 506 n.m siden vi i begynnelsen seilte mye mer sydover for å finne vinden enn å seile direkte mot "Alban1". Gjennomsnittlig fart siden avreise i utseilt distansen (log) = 4d*24+2 = 98t | 506/98 = 5.16 knop. Gjennomsnittlig fart i effektiv utseilt distanse blir da 476 n.m / 98 = 4.86 knop.
+
+Over stillehavet vil kursen bli lagt langs 50 grader syd. Siden det nå er bestemt at jorda er rund og NASA (Not Always Scientificly Accurate) nå har tatt så mange sattelitt bilder av jorda har de fleste nå er blitt enige om at jorda er rund og ikke flat. Det nytter derfor ikke med bare et veipunkt (kapp horn) på slike lange distanser for da ville kursen gå så å si over den geografiske Sydpolen. Mellom "Alban1" og Kapp Horn har jeg derfor lagt inn mange "AlbanX" veipunkter på "veien" langs den 50. sydlige breddegrad.
+
+Grunnen til at vi skal seile lengre syd i Stillehavet enn i det indiske hav er at landmassene (Australia/New Zeland og Sør Amerika) ligger lengre syd enn noe som befinner seg mellom Sør Amerika og Australia (Sør Atlanteren og Indiske hav), og i Stillehavet ligger også kysten til Antarktis lengre syd enn Antarktis sin kyst i det Indiske Hav. Dette fører til at lavtrykkene blir presset lengre syd av landmassene og den beste vinden vil derfor ligge lengre syd i Stillehavet enn i det indiske hav. På samme måte som I det indiske hav ligger det midt i det sydlige stillehavet et nesten stasjonært høytrykk i Det Indiske Hav blir dette kalt IOH (Indian Ocean High) i det sydlige Stillehavet heter dette høytrykket SPH (South Pacific High). Det finnes et tilsvarende høytrykk (NPH) i det nordlige stillehavet. Høytrykkene vimser litt nord og syd og frem og tilbake, men vi skal prøve å seile syd for dette høytrykket på samme måte som vi prøvde dette i det indiske hav. Problemet i det indiske hav var at Høytrykket i fjor var mye lengre syd enn normalen vi havnet derfor både titt og ofte inni dette høytrykket og der er det ingen vind. Dette skal vi prøve å unngå i stillehavet om 50. syd er langt nok syd vil tiden vise, men det er også mulig at jeg seiler lengre nord eller lengre syd det kommer helt ann på hvor høytrykket er og hvor lavtrykkene bestemmer seg for å gå.
+
+Etter "Alban1" blir kursen lagt mot "Alban2". Både "Alban1" og "Alban2" vil få nærmere beskrivelser om hvorfor de er lagt på de to posisjonene om henholdsvis 4 dager for "Alban1" og over nyttår for "Alban2".
+
+
+ENDS DE LA7GZ/MM

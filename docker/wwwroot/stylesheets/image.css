@@ -1,0 +1,60 @@
+div.picleft, div.picright, div.piccenter {
+    margin: 5px;
+    margin-right: 10px;
+    float: left;
+}
+
+div.picleft {
+    float: left;
+    margin-bottom: 0px;
+    padding: 0px;
+}
+
+div.picright {
+    float: right;
+    margin-bottom: 0px;
+    padding: 0px;
+}
+
+div.piccenter {
+    margin-left: auto;
+    margin-bottom: 0px;
+    padding: 0px;
+}
+
+div.picleft p, div.picright p, div.piccenter p, div.logoneutral p {
+    margin: 0px;
+    margin-left: 2px;
+    font-weight: bold;
+    color: #5b5819;
+}
+
+div.picleft img.linkpic, div.picright img.linkpic, div.piccenter img.linkpic {
+    border: solid;
+    border-width: 1px;
+}
+
+div.logoleft {
+    float: left;
+    margin-right: 4px;
+}
+
+div.logoright {
+    float: right;
+    margin-left: 4px;
+}
+
+div.logoneutral {
+    margin: auto;
+}
+
+div.logoleft img, div.logoright img, div.logoneutral img {
+    border-width: 0px;
+}
+
+img.pic {
+    border: solid;
+    border-width: 1px;
+    border-color: #404040;
+    margin: 0px;
+}

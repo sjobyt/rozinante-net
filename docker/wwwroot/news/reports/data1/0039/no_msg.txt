@@ -1,0 +1,70 @@
+BEGIN200505101200ZD053
+
+Jeg har avstått fra å skrive ord som storm og kuling når det faktisk ikke blåser storm og kuling for hva skal jeg da skrive når det først har blåst storm?
+
+NB: Det finnes forskjellige typer stormer. Dette er en vestlig storm hvor vinden kommer fra vest, med bølgene og havstrømmen siden vinden stort sett kommer fra vest, Vinden er konstant og skifter ikke, men må behandles med respekt og er farlig for både små og store. En syklonisk storm som orkaner, sykloner, tyfoner er mer konsentrerte og vinden skifter gradvis og lager da noe som på engleske kalles "Cyclonic sea/swell" som er meget farlig for et lite fartøy og store fartøy.
+
+I natt var det rett og slett storm, med alt tilbehør. Vi klarte det fint de 12 timene det faktisk blåste full storm. Interessant var det også. Det dumme var at det var mørkt hele tiden. Det var stort sett stjerneklart under hele stormen, men månen glitret med sitt fravær. Ganske interessant siden vi var omgitt av en tåkedis fyllt med skum og vann fra stormen. Så til og med et stjerneskudd. Det var ingen knockdowns, men en god del nesten knockdowns. Rozinante klarte seg bra på vindror, men trenger litt barnevakt når bølgene som bryter kaster oss ut av kurs. Det å få en båt til å styre seg selv i sånne bølger i så mye vind er en liten vitenskap i seg selv. Er meget fornøyd med at tankegangen og løsningene mine funker som de skal. Tilbrakte mesteparten av tiden godt fasspent i cockpit i mengder med lag med tøy. `Litt under vann, men mest over vann, Kaldt var det. Fem grader hva slags effektiv tempratur som kommer av en vind på gjennomsnitt på over 26 meter pr sekund vet jeg ikke, sannsynligvis veldig lavt.
+
+Stormen klarte vi bra og, det er vel i grunnen det værste jeg har sett. Dette er sånn storm som bare finnes her med noen gedigne fjell av noen bølger som var vanskelig og se, men ikke vanskelig å føle. Bølgene flytter faktisk mye vind og du kan kjenne på lufttrykket at nå kommer det en stor bølge og at bølgene er så store at av og til føles det som om det ikke er noen vind fordi bølgene "beskytter" deg mot vinden. Meget interessant! Det er en god følelse og ha bekjempet en skikkelig storm. Uansett hva jeg referer fra en slik storm så går det ikke ann å skrive hvordan det faktisk er. Noen nervepirende opplevelser var det, men klarte å holde hodet gjennom hele stormen. Det kan beskrives med at du er ombord i en lekteøysbåt oppi et badekar til en fireåring som leker kapteinsabeltann og har funnet ut at hans største oppgave her i livet er å senke deg.
+
+Når jeg først sier at det blåste storm så mener jeg storm. Storm er som sagt et ord som bør ha respekt. I sydatlanteren blåste det storm, men jeg hadde ingen bekreftelser fra metrologer i form av stormvarsler og slikt. Denne gang hadde vi det, og jeg har heller aldri sett barrometeret så lavt. Det datt ut ut av skalaen under 977hPa eller millibar om man ønsker.
+
+Hva vindkastene var vet jeg ikke, men de oversteg langt over 60 knop (33m/s) som er hva vindmåleren min går til. Ergo en tabolid avis ville lett ha kalt dette en orkan siden høyeste målte vindhastighet alltid skrives i avisene, og da helst i kilometerprtime siden tallet er mye høyere da. En etterapning av amerikanske medier fordi hvor større en verdi er jo større inntrykk har veriden på den manipulerte leseren. Ref: VG "Orkanen på Vestlandet" for noen år tilbake. Det var en normal storm som skjer med noen års mellomrom, her skjer det noen ganger i måneden.
+
+Jaja, har ventet en stund på dette. Dette er min tur og mine opplevelser og for meg er det faktisk viktig å vite at jeg klarer å beholde hodet, tenke riktig og behandle Rozinante riktig under slikt vær siden spørsmålet har nemmlig aldri vært: Hva gjør jeg hvis det blir storm?, men Hva gjør jeg når det blir storm? Dette var heller ingen "leke" storm, men en fulverdig storm som svært få hobbyseilere noen gang opplever i løpet av sin "karriere" som seilere.
+
+Inmarsat-C EGC Message  --- MET Navarea Warning or MET Forecast ---
+Message Sequence No. : 02828
+LES                  : Xantic (AUS)
+Priority             : Safety
+Size                 : 968 characters
+Receive Date & Time  : 05-04-09  18:58 (UTC)
+
+
+XANTIC LES 22 999999123456789  9-APR-2005 18:56:54 161816
+
+
+IDW21200
+SECURITE
+
+HIGH SEAS WEATHER WARNING FOR METAREA 10
+ISSUED BY THE AUSTRALIAN BUREAU OF METEOROLOGY, PERTH
+AT  1830UTC 9 APRIL 2005
+
+STORM WARNING FOR THE WESTERN AREA
+
+Please be aware, wind gusts can be a further 40 percent stronger than the
+averages given here, and maximum waves may be up to twice the height.
+
+SITUATION AT 1500UTC
+Vigorous westerly airstream south of 40S with embedded fronts. Low 962hPa near
+52S101E, intensefying and expected 943hPa near 51S112E at 100001UTC, and near 54S125E at 100600UTC.
+
+AREA AFFECTED
+South of line 42S085E 41S100E 43S115E, area contracting east to be south of line
+43S095E 41S110E 43S129E by 100600UTC
+
+FORECAST
+Winds NW/SW 35/45 knots, very rough seas, heavy swell. Winds increasing to NW/SW
+45/55 knots within 450nm of low, very rough to high seas, heavy swell.
+
+WEATHER PERTH
+
+knop * 0.5 (nøyaktig: 0.514) = m/s
+
+ENDS DE ROzINANTE/LA7GZ
+NNNN
+
+
+
+
+
+
+
+
+
+
+
+
+

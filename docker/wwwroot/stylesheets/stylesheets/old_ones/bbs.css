@@ -1,0 +1,108 @@
+body {
+    font-family: sans-serif;
+    font-size: 10pt;
+    background: #f0f0f0;
+    background-image: url('../graphics/bbs.png');
+    padding: 10px;
+}
+
+div.entry {
+    margin: 8px;
+    background-color: #cccb94;
+    padding: 3px;
+    border: solid 2px #939248;
+    max-width: 800px;
+}
+
+div.entry p {
+    text-indent: 0px;
+    margin: 0px;
+}
+
+div.entry p.title {
+    font-size: 10pt;
+    font-weight: bold;
+    color: #626987;
+    margin-bottom: 3px;
+}
+
+div.entry p.time {
+    font-size: 10pt;
+    color: #626987;
+    margin-bottom: 3px;
+    font-style: italic;
+}
+
+div.entry p.body {
+    text-indent: 0px;
+    margin: 0px;
+    font-size: 10pt;
+}
+
+table {
+    font-size: 12pt;
+    font-family: fixed;
+    font-weight: bold;
+}
+
+li {
+    padding: 2px;
+    font-family: "sans-serif";
+    font-size: 10pt;
+    max-width: 800px;
+    color: #515045;
+}
+
+li b {
+    color: black;
+    letter-spacing: 2px;
+}
+
+li.grey {
+    font-weight: bold;
+    color: #505050;
+}
+
+
+
+a:link	{
+    color: #0030f0;
+    text-decoration: underline;
+}
+a:visited	{
+    color: #0030f0;
+    text-decoration: underline;
+}
+a:active	{
+    color: #3070f0;
+    text-decoration: underline;
+}
+a:hover	{
+    color: #3070f0;
+    text-decoration: underline;
+}
+
+#menu {
+    position: absolute;
+    top: 20px;
+    width: 200px;
+    left: 10px;
+    padding: 10px;
+    border: solid 1px black;
+    background: #a09f4e;
+
+}
+
+
+#article {
+    position: absolute;
+    top: 20px;
+    left: 230px;
+    padding: 20px;
+    border-left: solid 1px black;
+    margin-left: 1px;
+}
+
+dt { font-weight: bold; margin-bottom: 4px;}
+
+dd { padding: 2px; }

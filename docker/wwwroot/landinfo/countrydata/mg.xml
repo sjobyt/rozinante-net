@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+
+<country code="bm">
+
+<eval>
+<table>
+<tr><th>Ankomst dato:</th><td>Slutt Mars</td></tr>
+<tr><th>Ankomst sted:</th><td>Hamilton</td></tr>
+<tr><th>Avreise dato:</th><td>Slutt Mars</td></tr>
+</table>
+
+<head>Pit Stop</head>
+<p>Dette blir en naturlig pit stop for oss på vei til New York. Dessuten ser det jo ut til å være fantastisk her selv om det er dyrt og fælt!</p>
+<head>Bermuda triangelet</head>
+<p>Bermuda er høyre hjørnet av det som er best kjent som bermuda triangelet. Bermuda triangelet kan du lese mer om her hvis du vil lese noen spesielle historier, eller har litt tro på overnaturlige ting som meg.</p>
+
+</eval>
+
+
+
+<data>
+
+
+<table>
+<caption>Diplomati</caption>
+<tr><th>Visum</th><td>Gyldig pass og retur billett med dato så får du innpass. Vi får håpe seilbåt teller, for slik som dette er det i mange land ;) </td></tr>
+<tr><th>Ambassade i Norge eller tilsvarende</th><td>Den Britiske antar jeg.</td></tr>
+<tr><th>Vår ambassade i landet eller tilsvarende</th><td>Den Britiske antar jeg.</td></tr>
+</table>
+
+
+<table>
+<caption>Geografi</caption>
+<tr><th>Lokasjon</th><td></td></tr>
+<tr><th>Tidssone</th><td><trans type="timezone"></trans></td></tr>
+<tr><th>Utstrekning</th><td>53 km²</td></tr>
+<tr><th>Hovedstad</th><td>Hamilton (ca. 15 000)</td></tr>
+<tr><th>Aktuelle byer</th><td>Hvis noe er aktuelt utenom Hamilton må det være de små øyene rundt (enda mindre ?) </td></tr>
+</table>
+
+
+
+<table>
+<caption>Befolkning</caption>
+<tr><th>Innbyggere</th><td>ca. 62 000</td></tr>
+<tr><th>Språk</th><td>Engelsk</td></tr>
+<tr><th>Religioner</th><td>Mer eller mindre jevnt fordelt, her hersker ingen fordommer.</td></tr>
+</table>
+
+
+<table>
+<caption>Valuta</caption>
+<tr><th>Aksepterer</th><td>Britiske Pund (GBP)</td></tr>
+<tr><th>Prisnivå</th><td>Høyt</td></tr>
+<tr><th>Tipsing</th><td>Veldig utbredt. 15% som standard! Huff!!</td></tr>
+<tr><th>Veksling</th><td>Veldig enkelt og greit selv i lokale banker. Kan også betale med reisesjekker mange steder.</td></tr>
+<tr><th>Minibank/kredittkort</th><td>Alle de store er vel utbredt</td></tr>
+</table>
+
+
+
+<table>
+<caption>Sikkerhet</caption>
+<tr><th>Sykdommer</th><td>Her er det ikke noe snusk</td></tr>
+<tr><th>Naturkatastrofer</th><td>Orkaner (sesong)</td></tr>
+</table>
+
+
+
+
+<table>
+<caption>Attraksjoner</caption>
+<tr><th>Turistifisert</th><td>Prisene her er høye, 400 års tradisjon med import fra USA gjør sitt. Alt ser ut til å ligge pent til rette, og det er en god plass for den typiske turisten.
+</td></tr>
+<tr><th>Åpen for alle</th><td>Her vil de ikke stenge ute noen, ikke noe visum, ingen sykdommer, religionsfrihet og tar alt du kommer med av valuta bare det er nok. Virker litt utsugende, og var skuffende lesning for naive meg som tenkte bedre om det høyre hjørnet av Bermuda triangelet.</td></tr>
+</table>
+
+
+
+<title>Mer informasjon</title>
+<list type="links">
+<li><link href="http://www.odci.gov/cia/publications/factbook/geos/bd.html">CIA -The World Factbook</link></li>
+<li><link href="http://www.ferieguiden.no/kontinent/nordamerika/bermuda/default.asp">Ferieguiden</link></li>
+<li><link href="http://www.lonelyplanet.com/destinations/north_america/bermuda/">Lonely Planet</link></li>
+</list>
+
+</data>
+
+</country>

@@ -1,0 +1,41 @@
+From la7gz@winlink.org Mon Jan 10 18:32:17 2005
+Return-path: <la7gz@winlink.org>
+Envelope-to: zoretad@rozinante.net
+Received: from ns1.keywordservices.com ([216.93.58.120] helo=winlink.org)
+	by kaja03 with smtp (Exim 3.35 #1 (Debian))
+	id 1Co3Or-0008LX-00
+	for <zoretad@rozinante.net>; Mon, 10 Jan 2005 18:32:17 +0100
+From: <la7gz@winlink.org>
+Subject: ROZUPDT_0002
+To: zoretad@rozinante.net
+Date: Mon, 10 Jan 2005 17:32:14 -0000 (GMT)
+Message-ID: <1037_LA7GZ@winlink.org>
+MIME-Version: 1.0 (produced by the IP*Works! MIME Component)
+Content-Type: multipart/mixed; boundary="--boundary.ipw.200501110173214.2948957228"
+
+----boundary.ipw.200501110173214.2948957228
+Content-Type: text/plain
+Content-Transfer-Encoding: quoted-printable
+
+Test mail via Winlink kortb=F8lge radio.
+
+TESTMAIL!
+
+Airmail info:
+sys: WinXP/472/767MB/42.55
+modem: PTC-IIex/COM7/57600/USB/1500/3.4
+radio: dCOM/Icom-M802/COM1/4800/A/08/nml
+----boundary.ipw.200501110173214.2948957228
+Content-Type: text/plain; name="no_msg.txt"
+Content-Disposition: attachment; name="no_msg.txt"; filename="no_msg.txt"
+Content-Transfer-Encoding: quoted-printable
+
+TESTMAIL!
+
+Airmail info:
+sys: WinXP/472/767MB/42.55
+modem: PTC-IIex/COM7/57600/USB/1500/3.4
+radio: dCOM/Icom-M802/COM1/4800/A/08/nml
+----boundary.ipw.200501110173214.2948957228--
+
+

@@ -1,0 +1,25 @@
+[nav]
+time: 2003-12-14 12:00+0000
+latitude: 25 20 N
+longitude: 18 23 W
+cog: 230
+sog: 5.2
+avg: 4.9
+log: 2890
+24n: 118.5
+ttg: 27 days
+dmg: 204
+dtg: 2746
+stretch: 2
+rac: Brilliance@0930Z on HF 6516 khz.
+sfc: none
+
+
+[weather]
+time: 2003-12-14 12:00+0000
+type: sunny
+airtemp: 23.0
+watertemp: 24.6
+winddirection: N.A
+windspeed: N.A
+waveheight: 2

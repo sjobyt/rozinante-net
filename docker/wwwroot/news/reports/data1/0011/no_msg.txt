@@ -1,0 +1,30 @@
+BEGIN200503021030ZD014
+
+To uker på havet i dag. Seilt en 1/6 del av veien til Tasmania. Det var mye kryssing og roting i begynnelsen, men ser nå ut til at vi har god vind og av og til litt for mye som i går ettermiddag og i natt. Da tok vinden seg betraktelig opp og før det ble mørkt var det meste av seil nede og bare stormfokka igjen. Vinden økte og sjøen vokste og kl 1930 tikket kulingvarslet inn ikke at jeg på det tidspunktet trengte å bli minnet på det siden det allerede blåste ganske kraftig men meldingen lød i sin helhet som følger:
+
+INMARSAT-C SafetyNET BROADCAST INDIAN OCEAN REGION
+EGC Message  --- MET Navarea Warning or MET Forecast ---
+Message Sequence No. : 03960
+LES                  : Stratos M.N.
+Priority             : Safety
+Size                 : 750 characters
+Receive Date & Time  : 05-03-01  19:44 (UTC)
+STRATOS CSAT PSTN User  1-MAR-2005 19:36:24 828651
+SECURITE GALEWARNING
+METAREA VII: MARION FORTIES EAST
+NOTE THE WIND SPEEDS QUOTED HERE ARE THE EXPECTED AVERAGE SPEEDS. INDIVIDUAL GUSTS MAY EXCEED THESE VALUES BY A FACTOR OF UP TO 1.5. WAVE HEIGHTS ARE SIGNIFICANT WAVE HEIGHTS WHICH MAY BE ACCOMPANIED BY INDIVIDUAL WAVES 1.5 TO 2.0 TIMES HIGHER.
+WIND IN KNOTS, WAVE HEIGHTS IN METRES.
+Wind		: W to NW 40
+VIS      	: Poor in showers spreading east.
+SEA STATE	: 5 to 7m
+ENDS THIS IS CAPE TOWN RADIO/ZSC
+
+På godt norsk betyr det: Gjennomsnittlig vind på 21 m/s vindkast på opptil 33 m/s. Bølgehøyde 5 meter maks 14 meter, og med en hav tempratur på 9.5 grader og lufttempratur på 14 så blir det en kald opplevelse. Et helt lass med vind og kulde og et enda større lass med bølger som er både lengre enn Rozinante og høyere enn masta på Rozinante som er 12m. Interessante fakta for det er så å si umulig og se hvor høye bølgene er, og jeg har ikke tenkt å klatre til topps i masta for å se om jeg kan se over neste bølgetopp.
+Alt gikk bra selv om noe vann fant sin vei inn i køya, men det har jeg fått tørket opp. Ellers var det en humpete natt, og vi har gjort god fremdrift selv om slike kulinger og bølger ikke er det gøyeste som finns, så er hovedutfordringen at man også skal gjøre fremdrift. Hadde jeg vært ute i et slikt vær for to år siden så hadde jeg sannsynligvis vært livredd og hadde seilt feil vei, blitt slått flat, seilt med for mye seil etc, og rett og slett kanskje ikke overlevd, men man lærer så lenge man lever heter det jo. Utfordringen nå er å utnytte slikt vær og ikke bare ”overleve” det.
+Ellers har jeg fått noen kommentarer på min bruk av personlig pronomen. Det har seg sånn at jeg kanskje har begynt å snakke med åndene eller etter å ha lese eventyret Ringenes Herre begynt å tro på eventyr. Min mangel på fysisk kontakt med andre mennesker i verden samt at det av og til føles at det ikke eksisterer andre ting en vann har resultert i at jeg utviklet en psykose som forteller min hjerne at jeg ikke er alene og det blir derfor litt vi og litt jeg.
+Thales fra Milet levde ca 500 år f.kr. han mente at vannet er alle tings opphav og siden jeg ikke har sett annet en vann de siste fjorten dagene så kan jeg så å si være enig. Siden det da blir litt vi og litt jeg så kan jeg si jeg er meg og vi er meg, rozinante og vannet, og for ikke å glemme kakkerlakkene. De er også med på ferden. Det er en boks om bord som er en multiplexer for seriell data fra ulike instrumenter denne har noen elektroniske komponenter som ikke er helt beskyttet mot luft, vann og annet selv om den burde være. I tilegg har den noen lysdioder for å fortelle hvilke innganger den senser trafikk på. En lys diode til en inngang som ikke er koblet til noe begynte å blinke i går kveld. Inni denne boksen så viste det seg at det bodde ganske mange kakkerlakker både store og små. De fryser nå og søker varme og inni denne boksen fant de det. En meget interessant oppdagelse.
+
+Det for være nok for i dag.
+
+ENDS DE ROZINANTE/LA7GZ
+

@@ -1,0 +1,3 @@
+#!/bin/sh
+
+wget --quiet -O /srv/www/htdocs/rozinante/mail2web.html http://www.rozinante.net/read-email.php

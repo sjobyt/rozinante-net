@@ -1,0 +1,24 @@
+[nav]
+time: 2003-12-25 18:00+0000
+latitude: 08 30 N
+longitude: 26 07 W
+cog: 180
+sog: 6.0
+log: 4050
+24n: 125
+ttg: 16 days
+dmg: 1421
+dtg: 1529
+stretch: 2
+rac: S/Y Brilliance on HF 6516 khz@0930Z/Trans Atlantic Maritime Mobile Network on HF 21.400mhz@1300Z
+sfc: None
+ath: Staale
+
+[weather]
+time: 2003-12-13 12:00+0000
+type: sunny
+airtemp: 28.0
+watertemp: 28.3
+winddirection: 040
+windspeed: 15
+waveheight: 2

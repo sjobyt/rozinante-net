@@ -1,0 +1,5 @@
+info: "Navigare necesse est, vivere non est nevesse."_Atlanterhavet_5 September 2004 12:30
+docu: cape1.xml_Rio De Janeiro til Cape Town - del I
+docu: cape2.xml_Rio De Janeiro til Cape Town - del II
+docu: cape3.xml_Rio De Janeiro til Cape Town - del III
+docu: cape.xml_Rio De Janeiro til Cape Town - hele

@@ -1,0 +1,125 @@
+div.header {
+    background: #ebe6b3 url(../graphics/letters_corner.png) bottom right no-repeat;
+    padding: 0px;
+    margin-bottom: 20px;
+    border: 1px solid #d1ca96;
+}
+
+div.heading {
+    margin: 0px;
+    padding: 2px;
+    padding-right: 20px;
+    background: #d1ca96 url(../graphics/letters_back.png) bottom right no-repeat;
+
+}
+
+div.heading h2 {
+    margin: 0px;
+    margin-left: 3px;
+    color: #5b5524;
+    font-size: 11pt;
+}
+
+
+div.heading span.date {
+    font-family: fixed;
+    font-size: 7pt;
+    font-weight: normal;
+    font-style: italic;
+    position: relative;
+    left: 3px;
+}
+
+table.header {
+    float: left;
+    font-weight: bold;
+    width: 43%;
+}
+
+table.header th {
+    color: #605741;
+    background-color: #d6d0a2;
+    border: 1px solid #b7b07c;
+}
+
+table.list {
+    background-color: #d1ca96;
+    border-left: 1px solid #bfb689;
+    border-bottom: 1px solid #bfb689;
+    border-collapse: collapse;
+    float: right;
+}
+
+
+table.list td.light {
+    background-color: #dbd5ab;
+}
+
+table.list th.light {
+    background-color: #dbd5ab;
+}
+
+table.list th {
+    width: 30px;
+}
+
+table.list td {
+    font-family: fixed;
+    font-size: 10pt;
+    font-weight: bold;
+    color: #5b5524;
+    letter-spacing: 1px;
+}
+
+div.summary {
+    border-top: 2px dashed #d1ca96;
+    float: left;
+    width: 100%;
+}
+
+div.summary p {
+    padding: 5px;
+}
+
+div.header p {
+    font-family: fixed;
+    line-height: 0.4;
+    margin: 0px;
+}
+
+div.lefttab {
+    float: left;
+    width: 43%;
+}
+
+div.righttab {
+    padding: 0px;
+    float: right;
+    width: 43%;
+}
+
+div.header a {
+    text-decoration: none;
+}
+
+div.header a:link {
+    color: #9b4520;
+    text-decoration: none;
+}
+
+div.header a:hover {
+    text-decoration: underline;
+    color: #d34e15;
+}
+
+p.data {
+    font-family: fixed;
+    background-color: #e1daa6;
+    padding: 4px;
+}
+
+div.contentblock {
+    position: relative;
+    top: 20px;
+}
+

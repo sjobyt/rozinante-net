@@ -1,0 +1,152 @@
+div.subject p {
+    margin: 5px;
+}
+
+h2.subject {
+    color: black;
+    font-size: 14pt;
+    margin-bottom: 0px;
+}
+
+#articlecontent p {
+    line-height: normal;
+}
+
+div.leftcol {
+    float: left;
+    width: 42%;
+    margin-bottom: 10px;
+}
+
+div.rightcol {
+   float: right;
+   width: 42%;
+   margin-bottom: 10px;
+}
+
+div.special {
+    padding: 8px;
+    background-color: #e5e3b7;
+    border: solid;
+    border-width: 1px;
+    border-color: #bcba98;
+}
+
+div.special h2 {
+    margin-top: 3px;
+    margin-bottom: 7px;
+}
+
+div.special h3 {
+    margin-bottom: 0px;
+    font-size: 10pt;
+}
+
+div.special p {
+    margin-top: 2px;
+}
+
+div.header {
+    background-color: #ebe6b3;
+    padding: 0px;
+    margin-bottom: 20px;
+    border: 1px solid #d1ca96;
+}
+
+div.heading {
+    margin: 0px;
+    padding: 2px;
+    padding-right: 20px;
+    background: #d1ca96 url(../graphics/letters_back.png) bottom right no-repeat;
+
+}
+
+div.heading h2 {
+    margin: 0px;
+    margin-left: 3px;
+    color: #5b5524;
+    font-size: 11pt;
+}
+
+div.lefttab {
+    float: left;
+    width: 49%;
+    margin-right: 15px;
+}
+
+div.righttab {
+    padding: 0px;
+    float: right;
+    width: 49%;
+    margin-left: 15px;
+
+}
+
+div.summary p {
+    padding: 5px;
+}
+
+div.heading span.date {
+    font-family: fixed;
+    font-size: 7pt;
+    font-weight: normal;
+    font-style: italic;
+    position: relative;
+    left: 3px;
+}
+
+table.header {
+    float: left;
+    font-weight: bold;
+    width: 43%;
+}
+
+
+table.list {
+    background-color: #d1ca96;
+    border-left: 1px solid #bfb689;
+    border-bottom: 1px solid #bfb689;
+    border-collapse: collapse;
+    float: right;
+}
+
+
+table.list td.light {
+    background-color: #dbd5ab;
+}
+
+table.list th.light {
+    background-color: #dbd5ab;
+}
+
+table.list th {
+    width: 30px;
+}
+
+table.list td {
+    font-family: fixed;
+    font-size: 10pt;
+    font-weight: bold;
+    color: #5b5524;
+    letter-spacing: 1px;
+}
+
+div.summary {
+    border-top: 2px dashed #d1ca96;
+    float: left;
+    width: 100%;
+}
+
+div.header a {
+    text-decoration: none;
+}
+
+div.header a:link {
+    color: #9b4520;
+    text-decoration: none;
+}
+
+div.header a:hover {
+    text-decoration: underline;
+    color: #d34e15;
+}

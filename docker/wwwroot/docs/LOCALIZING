@@ -1,0 +1,276 @@
+ _                    _ _          _   _
+| |    ___   ___ __ _| (_)______ _| |_(_) ___  _ __
+| |   / _ \ / __/ _` | | |_  / _` | __| |/ _ \| '_ \
+| |__| (_) | (_| (_| | | |/ / (_| | |_| | (_) | | | |
+|_____\___/ \___\__,_|_|_/___\__,_|\__|_|\___/|_| |_|
+
+CONTENTS
+--------
+1. OVERVIEW
+2. REQUIREMENTS
+3. CREATING A NEW LOCALIZATION
+4. MAINTAINING A LOCALIZATION
+5. WHERE TO GO FOR HELP
+
+
+1. OVERVIEW
+-----------
+
+Gallery is internationalized.  Instead of containing language specific
+text messages, it tracks text in a special way so that it can be
+extracted and translated into other languages.  Users will see a
+version of the text that has been converted into their own language.
+
+In order for the users to see a localized version of Gallery's text,
+somebody must first translate the text messages that Gallery is going
+to display.  This process is called "localization".
+
+This document is a little sketchy at the moment, but I'll try to
+outline in broad strokes how you can create and maintain localization
+files for the content in G2.  It's not a particularly difficult thing
+to do but it requires us to keep the various files up to date whenever
+the underlying content changes.  Luckily we have tools that will aid
+in this process.
+
+
+2. REQUIREMENTS
+---------------
+
+In order to really do this effectively, you need to have a few tools
+installed on your machine.  I've only tested this process on a FreeBSD
+box, but my guess is that you won't have too much difficulty on Linux,
+Solaris, or other Unix variants.  You may have difficulties following
+along on Windows, but it should be possible.
+
+  - gettext
+    http://www.gnu.org/software/gettext/
+
+  - gmake
+    http://www.gnu.org/software/make/make.html
+
+  - php binary in your path
+
+I don't *think* that you need anything else.  But it's possible (let me
+know).
+
+3. CREATING A NEW LOCALIZATION
+------------------------------
+
+This is pretty straightforward.  Look around the Gallery distribution and
+you'll find a bunch of directories called "po".  ("po" is a gettext term that
+stands for "portable object").  Here's one way to find them:
+
+	find . -type d -name po			<-- you type this
+
+	./themes/matrix/po			<-- you see this
+	./lib/tools/po
+	./modules/core/po
+	./modules/comment/po
+	./modules/netpbm/po
+
+	** Ignore the "lib/tools/po" directory.
+
+These directories contain translation source files.  You're going to
+create new files with an appropriate language code, and then fill them
+with translated text.  The first thing to do is to identify the
+correct language code.  If the one that you want to work on already
+exists, then skip to the next section ("Maintaining a Localization").
+Otherwise, you need to assemble a code from the following two tables:
+
+Language codes:
+	http://www.gnu.org/software/gettext/manual/html_mono/gettext.html#SEC221
+	(or http://ftp.ics.uci.edu/pub/ietf/http/related/iso639.txt)
+
+Country codes:
+	http://www.gnu.org/software/gettext/manual/html_mono/gettext.html#SEC222
+	(or http://www.iso.ch/iso/en/prods-services/iso3166ma/02iso-3166-code-lists/list-en1.html)
+
+Your code should be of the format xx_XX (eg, "en_US" for English/United States,
+or "el_GR" for Greek/Greece).
+
+Once you've chosen the code, you need to create a new .po file for
+your code.  Let's assume that you chose "el_GR".  For each po directory,
+you need to do this:
+
+	gmake messages.po
+	mv messages.po el_GR.po
+
+A word about text editors.  I personally am a fan of XEmacs so I'll be
+talking about XEmacs in my examples below.  If you have instructions for
+other editors, please contribute them.  XEmacs has a major mode called
+"po-mode" which, if you have it installed, you'll automatically wind up
+in if you edit a .po file.  I'm not going to go into it here, but try
+it out if you have it.
+
+Now edit el_GR.po.  It should have the Gallery license at the top of
+the file, but you'll need to customize these values:
+
+	"Project-Id-Version: xxx \n"
+		-> Copy the project id from another .po file in the same directory
+
+	"Last-Translator: \n"
+		-> Put your name and email here in the format:
+			"FirstName LastName <email@address>"
+
+	"Language-Team: \n"
+		-> Put in the language and the -devel mailing list, eg:
+			"Greek <gallery-devel@lists.sourceforge.net>"
+
+	"Content-Type: text/plain; charset=UTF-8\n"
+		-> We want you to use the UTF-8 character set because
+		   it allows us to render multiple languages on the
+		   same page which is nice for sites in one language
+		   that have user comments, etc in other languages.
+
+	"Content-Transfer-Encoding: 8bit\n"
+		-> Replace the encoding as appropriate
+
+Then, look at the lines just below the Gallery license:
+
+	#, fuzzy
+	msgid ""
+	msgstr ""
+
+The fuzzy keyword tells you that the translation of the block is
+incomplete. But once that you update the administration entries, you
+can remove the "#, fuzzy" line to allow the translation to compile
+later on.
+
+Next, you'll see a series of blocks like this:
+
+	#, c-format		(<-- you'll only see this on some lines)
+	msgid "a message in english, with %d or %s tags in it"
+	msgstr ""
+
+You need to put the translation for the English message into the
+msgstr block, between the quotes, for example:
+
+	#, c-format
+	msgid "a message in english, with %d or %s tags in it"
+	msgstr "eine Anzeige auf englisch, mit %d oder %s etikettiert in ihr"
+
+    (ok, that's German not Greek, but you get the idea)
+
+You really, really, really should put your editor into UTF-8 mode
+before editing these messages so that your editor can use the right
+character set.  If you can't edit in UTF-8 for some reason, consider
+using the GNU "recode" program to convert your translation to UTF-8
+before submitting it to us (or just send it anyway and we'll recode
+it).
+
+If you're using XEmacs with MULE (its MULtilanguagE support) you can
+add the following to your ~/.xemacs/init.el
+
+    ; Enable Unicode support (via Mule-UCS)
+    ;
+    (require 'un-define)
+    (set-coding-priority-list '(utf-8))
+    (set-coding-category-system 'utf-8 'utf-8)
+
+Then when you edit a file that is in UTF-8, it'll have a little "u"
+in left side of the status bar at the bottom of the screen.  Try it
+out with an existing .po file to see what it looks like.
+
+After doing a few translations, try it out to seehow it looks.  Run:
+
+	gmake install
+
+And it will compile your .po file into a .mo file and install it in
+the appropriate place for the module.  Note that this will generate a
+lot of output because it will compile all the .po files in the
+directory, so read the output carefully to see the relevant stuff from
+your new .po file.  Repeat this in every directory where you tweaked
+a .po file.  Finally, you need to edit
+modules/core/classes/GalleryTranslator.class and in function
+getLanguageData(), add lines like this (if not already present):
+
+	$supportedLanguages['el']['GR']['description'] = 'Greek';
+	$defaultCountry['el'] = 'GR';
+
+Now, log onto G2 and in the User preferences (you may need to edit the
+user via the Site Administrator) you should see Greek appear in the
+dropdown, and if you select it and log on as that user you'll see your
+translated messages.  In Site Admin / General you can also activate a
+language selector in the sidebar.
+
+4. SUBMITTING YOUR LOCALIZATION
+-------------------------------
+
+Now that you've got your localization up to speed, you need to package
+it up and send it to us so that we can commit it into the repository.
+This is easy.  The best way to package it is like this:
+
+	% cd gallery2
+	% zip el_GR.zip `find . -name el_GR.po`
+
+or:
+
+	% cd gallery2
+	% tar czf el_GR.tar.gz `find . -name el_GR.po`
+
+This will make up a little tarball (or zipfile) of just your
+translated files.  Obviously, use your language code instead of el_GR
+above :-) Then, go to the Translations Tracker on the Gallery project
+page on SourceForge:
+
+http://sourceforge.net/tracker/?func=browse&group_id=7130&atid=582564
+
+and click the "Submit New" button.  Put your translation in the
+"Gallery 2" group and don't forget to attach the files (the tracker
+interface can be a bit tricky at first).  If your translation doesn't
+get committed within 48 hours, jump on IRC (see step #6) and talk to
+us about it.
+
+5. MAINTAINING A LOCALIZATION
+-----------------------------
+
+This is pretty straightforward.  We'll work out some kind of
+notification system, but at any time you should be able to do this:
+
+	cd po
+	gmake el_GR.po		(using Greek as an example)
+
+This will extract all messages from the module that you're in, and
+update the .po file.  Look through the .po file for any blocks that
+have an empty msgstr, or are marked "fuzzy" and update them.  After
+they are fixed, remove the fuzzy tag.  You may find tags that look
+like this:
+
+	#, fuzzy
+	#~ msgid "User "
+	#~ msgstr "Gebruikersnaam"
+
+The "#, fuzzy" means that its fuzzy, but the "#~" means that the
+string no longer exists in G2 (we probably deleted or changed it
+significantly).  You can delete these entries.
+
+When you've got everything right, run:
+
+	gmake install
+
+The translation files get cached by PHP (which is why it's so fast)
+so you may not see change until you restart your web server.  That's
+annoying, but I haven't figured a good workaround for it yet.
+
+Test your changes (see the "Creating a New Localization") section for
+testing info, and submit the new files to us.
+
+
+6. WHERE TO GO FOR HELP
+-----------------------
+
+Obviously these docs are sketchy.  If you need help, there are three
+places to go:
+
+   1.  The gallery-devel mailing list:
+
+	http://gallery.sourceforge.net/lists.php
+
+   2.  The Gallery IRC channel
+
+	#gallery on irc.freenode.net
+
+   3.  The Gallery 2 development forum:
+
+	http://gallery.sourceforge.net/forums.php
+

@@ -1,0 +1,64 @@
+From la7gz@winlink.org  Sat Apr 16 14:27:52 2005
+Return-Path: <la7gz@winlink.org>
+X-Original-To: zoretad@rozinante.net
+Delivered-To: zoretad@jalla.org
+Received: from winlink.org (detroit.winlink.org [216.93.58.120])
+	by dionysus.jalla.org (Postfix) with SMTP id 6FF7517541
+	for <zoretad@rozinante.net>; Sat, 16 Apr 2005 14:27:51 +0200 (CEST)
+From: <la7gz@winlink.org>
+Subject: ROZUPDT_0046
+To: zoretad@rozinante.net
+Date: Sat, 16 Apr 2005 12:23:30 -0000 (GMT)
+Message-ID: <1157_LA7GZ@winlink.org>
+MIME-Version: 1.0 (produced by the IP*Works! MIME Component)
+Content-Type: multipart/mixed; boundary="--boundary.ipw.200504616122330.2306172808"
+
+----boundary.ipw.200504616122330.2306172808
+Content-Type: text/plain
+Content-Transfer-Encoding: quoted-printable
+
+
+
+----boundary.ipw.200504616122330.2306172808
+Content-Type: text/plain; name="nav.txt"
+Content-Disposition: attachment; name="nav.txt"; filename="nav.txt"
+Content-Transfer-Encoding: quoted-printable
+
+[META]
+DATE: 16.04.2005 06:00 +0100
+LAT: 44 52.00 S
+LON: 121 45.00 E
+LOCATION:
+
+[NAV]
+SOG: 4
+COG: 090
+DTG: 1015
+DMG: 4985
+LOG: 6351
+
+[WEATHER]
+RAINFALL:=20
+WIND-D: SSW
+WIND-S: 30
+CLOUD: 50
+BARO: 1007
+AIRTEMP: 11
+SEATEMP: 8
+----boundary.ipw.200504616122330.2306172808
+Content-Type: text/plain; name="no_msg.txt"
+Content-Disposition: attachment; name="no_msg.txt"; filename="no_msg.txt"
+Content-Transfer-Encoding: quoted-printable
+
+BEGIN200504161200ZD059
+
+Hei hvor det g=E5r. Mer i morgen!
+
+ENDS DE ROZINANTE/LA7GZ
+NNNN
+
+
+
+----boundary.ipw.200504616122330.2306172808--
+
+

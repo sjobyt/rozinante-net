@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+
+<country code="gf">
+
+
+<eval>
+<table>
+<tr><th>Ankomst dato:</th><td>Midt november</td></tr>
+<tr><th>Ankomst sted:</th><td>Cayenne?</td></tr>
+<tr><th>Avreise dato:</th><td>Midt november</td></tr>
+<tr><th>Reiserute:</th><td>Antakelig bare innom en by og så direkte videre.</td></tr>
+<tr><th>Forklaring</th><td>Landet virker relativt uinteressant i en langtur seilers øyne. Dyrt og lite å trakte etter. Når det da er gull å grønne skoger bare noen hundre nautiske mil unna blir det nok en snarlig avreise herifra.</td></tr>
+</table>
+
+</eval>
+
+<data>
+
+
+<table>
+<caption>Diplomati</caption>
+<tr><th>Visum</th><td>Nordmenn trenger ikke visum for besøk inntil 90 dager.</td></tr>
+<tr><th>Ambassade i Norge eller tilsvarende</th><td>Samme som Frankrike, landet er egentlig fransk.</td></tr>
+<tr><th>Vår ambassade i landet eller tilsvarende</th><td>Samme som Frankrike, landet er egentlig fransk.</td></tr>
+</table>
+
+<table>
+<caption>Geografi</caption>
+<tr><th>Lokasjon</th><td>Nord-delen av Sør Amerika. Grenser til Brasil og Surinam. Avgrenses av Atlanteren i nord. </td></tr>
+<tr><th>Tidssone</th><td><trans type="timezone">SAT</trans></td></tr>
+<tr><th>Utstrekning</th><td><trans type="area">91 000 km²</trans></td></tr>
+<tr><th>Hovedstad</th><td>Cayenne (40 000)</td></tr>
+<tr><th>Aktuelle større byer</th><td>Cayenne, Koruou</td></tr>
+</table>
+
+<table>
+<caption>Befolkning</caption>
+<tr><th>Innbyggere</th><td>182 000</td></tr>
+<tr><th>Språk</th><td>Fransk</td></tr>
+<tr><th>Religioner</th><td>Romersk katolsk</td></tr>
+</table>
+
+<table>
+<caption>Valuta</caption>
+<tr><th>Aksepterer</th><td>Euro (EUR) og Franske Franc (FRF)</td></tr>
+<tr><th>Prisnivå</th><td>Dyrt, et av de dyreste i hele sør Amerika. Å kunne bli sammenliknet med Frankrike  i prisnivå er ikke positivt, hvert fall ikke når landet ligger i Sør Amerika! Spesielt dyrt med offentlig transport, høres litt Norge aktig ut, hehe!</td></tr>
+<tr><th>Tipsing</th><td>Ulovlig eller? Sikkert som i Frankrike detta også.. ;) </td></tr>
+<tr><th>Veksling</th><td>Det er enkelt å få vekslet både dollar og reisesjekker, men kursen er dårlig - 5% under den offisielle kursen!</td></tr>
+<tr><th>Minibank/kredittkort</th><td>Det er utbredt med minibanker, også i postkontorer. Alle store er akseptert.</td></tr>
+</table>
+
+<table>
+<caption>Sikkerhet</caption>
+<tr><th>Sykdommer</th><td>God vaksinering er påkrevd her som i Brasil. De samme forhandsregler gjelder her.</td></tr>
+<tr><th>Naturkatastrofer</th><td>Veldige regnvær, oversvømmelse og orkaner.</td></tr>
+</table>
+
+
+<table>
+<caption>Attraksjoner</caption>
+<tr><th>Kourou</th><td>Her skytes det faktisk opp raketter for ESA. Hvem skulle trodd? Åsså er det ironisk nok ikke i Europa. Så man trenger ikke til Huston for å se LIFTOFF altså!</td></tr>
+<tr><th>De mørke minnene</th><td>Ruinene av de mange anstaltene og fengslene som var her helt inntil 1950 årene er visst et syn for seg selv. Det var her Frankrike sendte alle sine verste fanger så  de kunne sone sin straff. Frankrikes egen lille Australia rett og slett. Men i  motsetning til Australia er ikke lokalbefolkning en nedstamning av bandittene, som jeg forsto hvert fall ?</td></tr>
+</table>
+
+<title>Mer informasjon</title>
+<list type="links">
+<li><link href="http://www.odci.gov/cia/publications/factbook/geos/fg.html">CIA - The World Factbook</link></li>
+<li><link href="http://www.ferieguiden.no/kontinent/soramerika/franskguyana/default.asp">Ferieguiden</link></li>
+<li><link href="http://www.lonelyplanet.com/destinations/south_america/french_guiana/index.htm">Lonely Planet</link></li>
+</list>
+
+
+</data>
+
+</country>

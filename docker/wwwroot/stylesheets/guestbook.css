@@ -1,0 +1,19 @@
+div.entry {
+    background-color: #ebe6b3;
+    border-top: 1px solid #bcba9a;
+    padding: 0px;
+    margin-bottom: 20px;
+}
+
+div.entry p {
+    margin-top: 0px;
+    font-family: fixed;
+
+}
+
+div.entry span.info {
+    margin-top: 0px;
+    padding: 2px;
+    background-color: #bcba9a;
+    font-weight: bold;
+}

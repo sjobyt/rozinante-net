@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+
+<country code="en">
+
+
+<eval>
+
+</eval>
+
+
+<data>
+
+
+<table>
+<caption>Diplomati</caption>
+<tr><th>Visum</th><td></td></tr>
+<tr><th>Ambassade i Norge eller tilsvarende</th><td></td></tr>
+<tr><th>Vår ambassade i landet eller tilsvarende</th><td></td></tr>
+</table>
+
+
+
+<table>
+<caption>Geografi</caption>
+<tr><th>Lokasjon</th><td></td></tr>
+<tr><th>Tidssone</th><td><trans type="timezone"></trans></td></tr>
+<tr><th>Utstrekning</th><td></td></tr>
+<tr><th>Hovedstad</th><td></td></tr>
+<tr><th>Aktuelle byer</th><td></td></tr>
+</table>
+
+
+<table>
+<caption>Befolkning</caption>
+<tr><th>Innbyggere</th><td></td></tr>
+<tr><th>Språk</th><td></td></tr>
+<tr><th>Religioner</th><td>
+<list>
+
+</list>
+
+</td></tr>
+</table>
+
+
+<table>
+<caption>Valuta</caption>
+<tr><th>Aksepterer</th><td></td></tr>
+<tr><th>Prisnivå</th><td></td></tr>
+<tr><th>Tipsing</th><td></td></tr>
+<tr><th>Veksling</th><td></td></tr>
+<tr><th>Minibank/kredittkort</th><td></td></tr>
+</table>
+
+
+<table>
+<caption>Sikkerhet</caption>
+<tr><th>Sykdommer</th><td></td></tr>
+<tr><th>Naturkatastrofer</th><td></td></tr>
+</table>
+
+
+<table>
+<caption>Attraksjoner</caption>
+<tr><th></th><td></td></tr>
+</table>
+
+
+<title>Mer informasjon</title>
+<list type="links">
+
+</list>
+
+</data>
+
+</country>

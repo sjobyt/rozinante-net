@@ -1,0 +1,37 @@
+body {
+
+    }
+
+h1, h2 { font-family: sans-serif; }
+
+h1 { font-family: "bitstream vera serif", sans-serif;}
+h3 {
+    font-size: 12pt;
+    margin-top: 20px;
+}
+
+p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: serif;
+
+}
+
+p+p {
+    text-indent: 2em;
+    }
+
+p.first {
+    text-indent: 0em;
+    margin-top: 20px;
+}
+
+div.info {
+    border: 2px solid #867f62;
+    background: #b5aa92 url("../graphics/rozinante_grain.jpg") no-repeat top left;
+    padding: 20px;
+    width: 60%;
+    margin: auto;
+    }
+
+h1 { text-align: center; }

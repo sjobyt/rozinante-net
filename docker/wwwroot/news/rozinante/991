@@ -1,0 +1,50 @@
+<!--1048021620--><!--Våren kommer og båtpussen starter for alvor--><!--Staale-->
+
+<p>De siste dagene har det vært strålende vær og vi har
+gjort masse båt-relatert. Det er nå 17 uker til avreise og vi teller
+ned. Ukene flyr og vi føler selv at vi er i rute, men nå blir det bare
+mer og mer tur-planleggning. Nå er det heller ikke bare mannskapet og en
+og annen båtentuiast som har begynt båtpussen, nå er det mye liv her
+hvor båten står. Det er bra for oss og gir oss en liten
+inspirasjon!</p>
+
+<p>20 tonns jekken vår hadde for liten stigning og ting bare seig sammen
+så vi fikk tak i en ny jekk som takler hele 50 tonn med elekrisk hydralisk
+pumping. Med riktig verktøy går alt på skinner.</p>
+
+
+
+<div class="contentblock">
+
+<? insert_image($thumb_dir . "991tpic001.jpg", "", $pic_dir . "991pic001.jpg", "picleft", "") ?>
+<? insert_image($thumb_dir . "991tpic003.jpg", "", $pic_dir . "991pic003.jpg", "picright", "") ?>
+
+
+<p>Det er blitt montert en del elektriske dippedupper. Senere vil det
+muligens komme en oversikt over hvilket elektrisk utstyr vi har med oss og
+hvorfor.</p>
+
+<p>Etter at jekkingen ble en lek, er alt under vannlinjen slipt ned
+til glassfiberen. Dette skal nå
+tørke før det skal sparkles. Men før sparkel skal det monteres
+tynne kobber plater som skal støpes inn i skroget for å gi ordentlig jording til
+kortbølgeradioen. Kortbølgeinstallasjonen vil det komme
+mer om siden.</p>
+</div>
+
+
+<div class="contentblock">
+<? insert_image($thumb_dir . "991tpic002.jpg", "Vi tester ut værfax
+og navtex fra kortbølgeradioen til en bærebar pc.", $pic_dir . "991pic002.jpg", "picleft", "") ?>
+
+<p>Det blir selvfølgelig en hel del rot under arbeidet, og akkurat nå
+er det kabler frem og tilbake. Etter hvert skal de festes pent på
+plass. </p>
+
+<p><a href="http://www.icomamerica.com/marine/ssb/icm802main.html">Kortbølgeradioen</a></p>
+<p><a href="http://www.xaxero.com/">Værfax programvare</a>
+<p>Motoren og tilhørende deler blir pusset på, samtidig blir den overhalt
+og et nytt feste til en generator nummer to blir tilpasset. Vi vil ha to
+generatorer, en til forbruksbatterier og en til et lukket batterisystem for
+startmotor og ankervinsj. </p>
+</div>

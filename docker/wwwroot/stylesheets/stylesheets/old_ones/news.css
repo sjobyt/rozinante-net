@@ -1,0 +1,46 @@
+div.entry {
+    background-color: #d8d59e;
+    border: solid;
+    border-width: 1px;
+    border-color: #9e9b68;
+    margin-bottom: 20px;
+}
+
+div.entrybottom {
+    background-color: #9e9b68;
+    margin: 0px;
+    padding-right: 5px;
+}
+
+div.entrybottom p {
+    color: #3a3924;
+    margin: 0px;
+    font-style: italic;
+    text-align: right;
+}
+
+div.entrycontent {
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+div.newslink {
+    background-color: #ebe6b3;
+    padding: 2px;
+    margin-bottom: 10px;
+    border: dotted 1px #604040;
+}
+
+div.newslink h3, div.newslink p{
+    margin: 4px;
+    margin: 4px;
+}
+
+div.newslink h3 {
+    color: black;
+    font-size: 10pt;
+}
+
+
+
+

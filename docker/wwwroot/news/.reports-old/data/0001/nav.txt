@@ -1,0 +1,21 @@
+[META]
+DATE: 02.12.2004 12:00 +0100
+LAT: 34 11.46 S
+LON: 18 25.98 E
+LOCATION: South Africa
+SUB: In port: Simonstown, South Africa. Preparing to leave.
+
+[NAV]
+SOG: 4
+COG: 90
+
+[WEATHER]
+WIND-D: SE
+WIND-S: 25
+CLOUD: 50
+BARO: 1013
+AIRTEMP: 25.0
+SEATEMP: 17.0
+
+
+

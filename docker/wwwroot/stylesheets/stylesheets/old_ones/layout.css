@@ -1,0 +1,52 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    color: black;
+    background-color: #c0c000;
+    font-family: verdana, sans-serif;
+}
+
+
+#article {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 250px;
+    padding: 0px;
+    min-height: 99%;
+
+    background: #f4f3be url(../graphics/content_back.png) repeat-y;
+    border-right: solid 2px #84832e;
+    border-bottom: solid 2px #84832e;
+
+}
+
+#articlecontent {
+
+    margin-right: 20px;
+    margin-left: 70px;
+    margin-top: 40px;
+    padding-bottom: 20px;
+}
+
+#menu {
+    width: 250px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+#menucontent {
+    margin-left: 35px;
+    width: 200px;
+}
+
+#menu img {
+    margin: 0px;
+    margin-top: 10px;
+}
+
+
+div.contentblock {
+    clear: left;
+}

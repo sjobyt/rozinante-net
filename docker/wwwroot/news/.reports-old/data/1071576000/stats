@@ -1,0 +1,27 @@
+[nav]
+time: 2003-12-16 12:00+0000
+latitude: 23 17 N
+longitude: 21 50 W
+cog: 220
+sog: 4.3
+avg: 4.3
+log: 3121
+24n: 105
+ttg: 25 days
+dmg: 427
+dtg: 2523
+stretch: 2
+rac: S/Y Brilliance@0930Z on MF 2017 khz@0930Z/Atlantic Maritime Mobile Network on HF 21.400 Mhz@1300Z/S/Y Brilliance@1830Z on HF 8109 khz@1830Z/Italian Maritime Mobile Network on HF 14.297,5Mhz@1900Z
+sfc: None
+
+
+[weather]
+time: 2003-12-16 12:00+0000
+type: sunny
+airtemp: 25
+watertemp: 26.5
+winddirection: 030
+windspeed: 12
+waveheight: 1.5
+pressure: 1018
+

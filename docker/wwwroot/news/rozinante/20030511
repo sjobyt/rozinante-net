@@ -1,0 +1,11 @@
+<!--1052684143--><!--Første testing av Rozinante--><!--Staale-->
+<div class="contentblock">
+<p>Lørdag kveld var resten av Rozinante ryddet. Det elektriske til motoren ferdig koblet. Viftereim strammet. Lufting av diesel utført. Samt andre ting. Dette betydde at vi måtte starte motoren! Motoren startet, og de første forbredelsene for første tur ut av båthavna ble gjort. Rozinante seg ut fra Støodden i det båten ble satt i gir. Lengre ut i Korsvik fjorden ble det etterfyllt vann og frostveske i ferskvannsløyfen.  </p>
+<? insert_image($thumb_dir . "20030511-spic01.jpg", "", $pic_dir . "20030511-lpic01.jpg", "picleft", "") ?>
+<? insert_image($thumb_dir . "20030511-spic02.jpg", "", $pic_dir . "20030511-lpic02.jpg", "picleft", "") ?>
+<? insert_image($thumb_dir . "20030511-spic03.jpg", "", $pic_dir . "20030511-lpic03.jpg", "picleft", "") ?>
+<? insert_image($thumb_dir . "20030511-spic04.jpg", "", $pic_dir . "20030511-lpic04.jpg", "picleft", "") ?>
+<? insert_image($thumb_dir . "20030511-spic05.jpg", "", $pic_dir . "20030511-lpic05.jpg", "picleft", "") ?>
+<p>KONKLUSJON: Vi har gjort en god jobb. Hylsa er potte tett og lekker ikke vann. Motoren sviver som en klokke og bortsett fra at giret trenger en overhaling er alt det tekniske meget, meget stabilt.</p>
+</div>
+

@@ -1,0 +1,73 @@
+@import url("image.css");
+
+table {
+    margin-bottom: 10px;
+}
+
+td, th {
+    border: solid 1px black;
+    padding: 2px;
+}
+
+table.facts td, table.facts th {
+    border: none;
+    background: none;
+}
+
+th {
+    background: #d0d0d0;
+}
+
+div.entry {
+    border: solid 1px black;
+    margin-bottom: 20px;
+    padding: 5px;
+}
+
+div.entrybottom {
+    margin: 0px;
+    padding-right: 5px;
+}
+
+div.entrybottom p {
+    margin: 0px;
+    font-style: italic;
+    text-align: right;
+}
+
+div.entrycontent {
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+div.contentblock {
+    clear: left;
+}
+
+#menu {
+    display: none;
+}
+
+body {
+    font-family: sans-serif;
+    background: white;
+}
+
+
+div.picleft p, div.picright p {
+    color: black;
+}
+
+p.imagetext {
+    font-weight: bold;
+    clear: left;
+}
+
+p.person {
+    margin: 10px;
+    float: left;
+}
+
+p.by {
+    display: block;
+}

@@ -1,0 +1,77 @@
+From la7gz@winlink.org  Sat Apr  9 17:28:57 2005
+Return-Path: <la7gz@winlink.org>
+X-Original-To: zoretad@rozinante.net
+Delivered-To: zoretad@jalla.org
+Received: from winlink.org (detroit.winlink.org [216.93.58.120])
+	by dionysus.jalla.org (Postfix) with SMTP id EB8FC17418
+	for <zoretad@rozinante.net>; Sat,  9 Apr 2005 17:28:56 +0200 (CEST)
+From: <la7gz@winlink.org>
+Subject: ROZUPDT_0038
+To: zoretad@rozinante.net
+Date: Sat, 9 Apr 2005 15:24:53 -0000 (GMT)
+Message-ID: <1125_LA7GZ@winlink.org>
+MIME-Version: 1.0 (produced by the IP*Works! MIME Component)
+Content-Type: multipart/mixed; boundary="--boundary.ipw.20050469152452.2765466072"
+
+----boundary.ipw.20050469152452.2765466072
+Content-Type: text/plain
+Content-Transfer-Encoding: quoted-printable
+
+
+
+----boundary.ipw.20050469152452.2765466072
+Content-Type: text/plain; name="nav.txt"
+Content-Disposition: attachment; name="nav.txt"; filename="nav.txt"
+Content-Transfer-Encoding: quoted-printable
+
+[META]
+DATE: 09.04.2005 12:00 +0100
+LAT: 45 10.00 S
+LON: 106 50.00 E
+LOCATION:
+
+[NAV]
+SOG: 5
+COG: 100
+DTG: 1710
+DMG: 4290
+LOG: 5416
+
+[WEATHER]
+RAINFALL:=20
+WIND-D: WNW
+WIND-S: 35
+CLOUD: 100
+BARO: 998
+AIRTEMP: 6.5
+SEATEMP: 6
+----boundary.ipw.20050469152452.2765466072
+Content-Type: text/plain; name="no_msg.txt"
+Content-Disposition: attachment; name="no_msg.txt"; filename="no_msg.txt"
+Content-Transfer-Encoding: quoted-printable
+
+BEGIN200505091200ZD052
+
+En forbl=E5st fredag en rolig l=F8rdag formiddag og en forbl=E5st l=F8rdags=
+kveld. Det er vel stort sett det som er =E5 rapotere herfra. Skal skrive li=
+tt mer i morgen. Vinden skal legge seg ned p=E5 et litt mer moderat niv=E5 =
+i l=F8pet av morgen dagen. Ellers alt vel.=20
+
+ENDS DE ROzINANTE/LA7GZ
+NNNN=20
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+----boundary.ipw.20050469152452.2765466072--
+
+

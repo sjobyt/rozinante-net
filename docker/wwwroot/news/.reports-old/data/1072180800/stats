@@ -1,0 +1,28 @@
+[nav]
+time: 2003-12-23 12:00+0000
+latitude: 12 52 N
+longitude: 26 00 W
+cog: 180
+sog: 4.0
+avg: 4.5
+log: 3750
+24n: 108
+ttg: 18 days
+dmg: 1138
+dtg: 1812
+stretch: 2
+rac: S/Y Brilliance@0930Z on HF 6516 khz@0930Z/Atlantic Maritime Mobile Network on HF 21.400 Mhz@1300Z
+sfc: None
+
+
+[weather]
+time: 2003-12-23 12:00+0000
+type: 0% cloud coverage
+airtemp: 28
+watertemp: 27.5
+winddirection: 040
+windspeed: 10
+waveheight: 1
+pressure: 1015
+
+

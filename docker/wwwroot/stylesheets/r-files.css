@@ -1,0 +1,28 @@
+div.border {
+    background: white url("../graphics/paperback.png");
+    border: 1px ridge black;
+    padding: 10px;
+}
+
+div.personleft {
+    width: 45%;
+    background-color: #ebe6b3;
+    border-top: solid 1px #f9f6d9;
+    border-left: solid 1px #f9f6d9;
+    border-right: solid 1px #d1c887;
+    border-bottom: solid 1px #d1c887;
+    margin-bottom: 10px;
+    float: left;
+}
+
+div.personright {
+    width: 45%;
+    background-color: #ebe6b3;
+    border-top: solid 1px #f9f6d9;
+    border-left: solid 1px #f9f6d9;
+    border-right: solid 1px #d1c887;
+    border-bottom: solid 1px #d1c887;
+    margin-bottom: 10px;
+    float: right;
+}
+

@@ -1,0 +1,3 @@
+info: Bilder og info_Cape Town_23 January 2005 12:00
+docu: capetown.xml_Capetown
+docu: pics.xml_Bildegalleri

@@ -1,0 +1,77 @@
+From la7gz@winlink.org Fri Feb 25 13:17:25 2005
+Return-path: <la7gz@winlink.org>
+Envelope-to: zoretad@rozinante.net
+Received: from detroit.winlink.org ([216.93.58.120] helo=winlink.org)
+	by kaja03 with smtp (Exim 3.35 #1 (Debian))
+	id 1D4ePM-0001ac-00
+	for <zoretad@rozinante.net>; Fri, 25 Feb 2005 13:17:25 +0100
+From: <la7gz@winlink.org>
+Subject: ROZUPDT_0006
+To: zoretad@rozinante.net
+Date: Fri, 25 Feb 2005 12:17:21 -0000 (GMT)
+Message-ID: <1071_LA7GZ@winlink.org>
+MIME-Version: 1.0 (produced by the IP*Works! MIME Component)
+Content-Type: multipart/mixed; boundary="--boundary.ipw.200502525121721.367729796"
+
+----boundary.ipw.200502525121721.367729796
+Content-Type: text/plain
+Content-Transfer-Encoding: quoted-printable
+
+Update 0006
+----boundary.ipw.200502525121721.367729796
+Content-Type: text/plain; name="nav.txt"
+Content-Disposition: attachment; name="nav.txt"; filename="nav.txt"
+Content-Transfer-Encoding: quoted-printable
+
+[META]
+DATE: 25.02.2005 12:00 +0100
+LAT: 40 40.46 S
+LON: 26 45.16 E
+LOCATION:=20
+
+[NAV]
+SOG: 0
+COG: 0
+DTG: 6900
+DMG: 630
+LOG: 1150
+
+[WEATHER]
+RAINFALL: 1hrs
+WIND-D: NA
+WIND-S: 0
+CLOUD: 10
+BARO: 1011
+AIRTEMP: 17.0
+SEATEMP: 13.0
+
+----boundary.ipw.200502525121721.367729796
+Content-Type: text/plain; name="no_msg.txt"
+Content-Disposition: attachment; name="no_msg.txt"; filename="no_msg.txt"
+Content-Transfer-Encoding: quoted-printable
+
+BEGIN200502251200ZD009=20
+
+G=E5rsdagen dabbet vinden litt av, tok seg opp igjen fra SSW og bl=E5ste de=
+retter like mye dette holdt p=E5 frem til p=E5 morgenkvisten. B=F8lgene vok=
+ste opp til middelstore eneboliger og det gikk unna. Havtempraturen de sist=
+e dagene har sunket til 13 grader og i dag tidlig var det 16 grader s=E5 n=
+=E5 begynner det =E5 bli merkbart kaldere.
+	N=E5 har vinden forsvunnet helt det er ingen skyer og utsikten fremover i =
+forhold til vind ser ikke bra ut. Et h=F8ytrykk er innkommende og beveger s=
+eg sent fra vest til =F8st. Det kan derfor se ut til at det blir noen dager=
+ uten vind. Den tiden for vi bruke p=E5 rydde, drive litt vedlikehold og an=
+net. Pga str=F8mforbruk kan det derfor v=E6re mulig det g=E5r noen dager f=
+=F8r neste oppdatering kommer.=20
+	Slike vindstilleperioder er kjedelige, men jeg pr=F8ver s=E5 godt jeg kan =
+og motviere meg p=E5 =E5 sjekke og vedlikeholde ting selv om det og ligge s=
+tille er s=E6rdeles kjedelig. Vi har gjort god fremdrift de siste to dagene=
+ s=E5 jeg f=E5r leve litt p=E5 det inntil videre. Litt vind for vi h=E5pe a=
+t det kommer. Litt soving kan det ogs=E5 bli tid til for det har det heller=
+ ikke blitt s=E5 altfor mye av i det siste.=20
+
+ENDS/ROZINANTE/LA7GZ
+
+----boundary.ipw.200502525121721.367729796--
+
+

@@ -1,0 +1,112 @@
+#display {
+    position: absolute;
+    top: 0px;
+    right: 250px;
+    left: 0px;
+
+
+    padding: 0px;
+
+    border-right: solid 1px #84832e;
+    border-bottom: solid 1px #84832e;
+
+
+}
+
+#displaycontent {
+    padding: 20px;
+}
+
+
+table {
+    margin: 5px;
+    border-collapse: collapse;
+    font-size: 9pt;
+
+}
+
+div.eval table th {
+    text-align: right;
+    padding: 4px;
+    background-color: #b2b085;
+    width: 30%;
+}
+
+div.eval table td {
+    border: 1px solid #b2b085;
+    padding-left: 4px;
+}
+
+div.eval table {
+    background-color: #cccaa5;
+    border: 1px solid #b2b085;
+    margin: 0px;
+}
+
+
+div.data table {
+    background-color: #eae8b9;
+    border: 1px solid #bfbc8b;
+    width: 90%;
+    margin: auto;
+}
+
+div.data table caption {
+    margin-top: 20px;
+    font-size: 14pt;
+    text-align: left;
+}
+
+div.data table td {
+    padding: 5px;
+    border: 1px solid #bfbc8b;
+
+}
+
+div.data table th {
+    padding: 5px;
+    text-align: right;
+    border: 1px solid #bfbc8b;
+    width: 20%;
+
+}
+
+div.data table tr {
+    margin: 4px;
+
+}
+
+img.map {
+    margin-left: 20px;
+    float: right;
+    margin-bottom: 10px;
+}
+
+img.flag
+    float: left;
+}
+
+
+ul {
+    width: 80%;
+    padding: 10px;
+    border: 1px dashed #bfbc8b;
+}
+
+li {
+
+    margin-left: 10px;
+}
+
+div.data {
+    clear: both;
+    border-top: 1px dashed black;
+    margin-top: 20px;
+}
+
+img.continent {
+   margin-right: 10px;
+   border: 1px solid black;
+}
+
+h3 { font-size: 11pt; }

@@ -1,0 +1,13 @@
+div.subject p {
+    margin: 5px;
+}
+
+h2.subject {
+    color: black;
+    font-size: 14pt;
+    margin-bottom: 0px;
+}
+
+#articlecontent p {
+    line-height: normal;
+}

@@ -1,0 +1,6 @@
+TESTMAIL!
+
+Airmail info:
+sys: WinXP/472/767MB/42.55
+modem: PTC-IIex/COM7/57600/USB/1500/3.4
+radio: dCOM/Icom-M802/COM1/4800/A/08/nml

@@ -1,0 +1,152 @@
+<?xml version="1.0" ?>
+<article>
+
+<h1>Etter Tristan - Siste etappe!</h1>
+<p>Etter å ha lest ut alle bøkene om bord endte jeg med å studere navigasjons mattematikk. Siden jeg ikke hadde nok strøm kunne jeg heller ikke leke med noe teknisk bortsett fra den grafiske kalkulatoren så ved hjelp av hodelykt og grafisk kalkulator satt jeg og mekka programmer på kalkulatoren. Jeg hadde også lest ut alle bøkene, og senere leste jeg noen stykker om igjen. </p>
+
+<p><b>Oppgave 1</b><br/>
+Hvor nøyaktig er vår posisjon i forhold til 0 grader lengde også kjent som Greenwich medinanen, når posisjonen vår er 37 grader 18.426 minutter syd og lengdgraden vår er 000 grader og 00.000 minutter E/W. i følge Global Posistioning System. Oppgaven forutsetter at GPS er innstilt på WGS-84 datum?</p>
+
+<p>Svar Oppgave 1: <br/>
+Vi er på 0 Greenwich merdiansen med en nøyaktighet på: "cos^-1(sin(18.426/60+37)sin(18.426/60+37)+(cos(18.426/60+37)cos(18.426/60+37)cos(60))=46.86884473/60=0.7811474121*1852=1446.685007/1000=1.446685007m".
+<br/>
+Vi er innenfor Greenwich merdianen med en nøyaktighet på +-1.44668507 meter i følge USA.</p>
+
+
+<p><b>Oppgave 2:</b><br/>
+Lag et program til Texas Instrument TI-83 kalkulator som regner ut hvor langt samt hvilken retning i sann kurs det er fra en gitt posisjon til Cape Point (Kapp det Gode Håp) som har posisjon 34 grader og 24 minutter Syd og 18 grader og 30 minutter Øst. Programmet forutsetter at du befinner deg syd vest for Cape Point og øst for 0 grader merdianen. Programmet skal regne ut .Ruhmb lline. kursen og distansen og ikke .Great Circle. ruten. [Great Circle = På norsk: Den store sirkelen?]</p>
+
+<p>Svar oppgave 2:</p>
+<pre>
+ClrHome
+Input "DLA °?",A
+Input "DLA '?",B
+Input "DLO °?",C
+Input "DLO '?",D
+A*60+B>A
+C*60+D>B
+ (34*60)+24>C
+(18*60)+30>D
+((A+C)/2)/60>M
+C-A>Y
+B-D>X
+XCos(M)>P
+tan^-1(P/Y).C
+Y/Cos(C)>M
+If M 0
+Then
+-M>M
+round(M,1)>M
+round(C,1)>C
+DISP "KURS T",C
+DISP "DIST. NM",M
+End
+</pre>
+
+
+<p>En annen ting jeg fant ut av var at det er faktisk mulig å spille .Geni. med en person. Problemet med å bruke brettet var at brikkene ikke ville stå der jeg satte dem i mitt .bevgelige. hjem. </p>
+<p>Ellers styrte vi litt på veien til Cape Town, men et døgn varer i 24 timer og etter 2 timer med styring går du lei, jeg styrte stort sett når det blåste mye for da var det gøy å styre. Det var ingen kappseilas og da har du liksom ikke behov for å styre. Av og til føltes det som å seile VG-Jolla i mye vind, synd at den sank! Hjemme på Sodfjed, Kristiansand finnes det visstnok nå to vg-joller, men de for vel neppe jeg lov å røre. </p>
+<p>Det var bare litt andre dimensjoner vind og bølger, men en VG jolle i en 2 meter bølger og frisk bris i Kvåsefjorden/Skagerrak er god trening. </p>
+
+<b>Kommunikasjon - Snakke med seg selv?</b>
+<p>Jeg hadde bare en måte å kommunisere på og det var via kortbølgeradioen. Ikke bare når det gjaldt at jeg rapporterte posisjonen min stort sett daglig, og fikk mange værmeldinger. Mens jeg seilte var det en annen seiler som var på vei fra Brazil til St. Helena og opp til Azorene. Han har jeg snakket med fra tid til annen siden desember i fjor.</p>
+<p>Det greie med det var at vi begge seilte alene og selv om det blir en smule absurd siden jeg befant meg ca. 1500 n.m syd for han og han var på vei til Europa og jeg var på vei til Afrika så følte jeg meg liksom ikke helt alene ute på havet. </p>
+<p>Vi snakket sammen ca. 30 minutter hver dag før helt på slutten da han nærmet seg Azorene og jeg Cape Town signalene begynte å bli dårligere. </p>
+<p>Av og til snakket vi bare sammen noen minutter fordi en av oss hadde dårlig batterier eller han hadde en tropisk squall og jeg en storm. Dessuten var han doktor og det er alltid greit å vite at det finnes en doktor i "nærheten". </p>
+<p>Noen ganger måtte jeg rett å rett og slett bare si at alt var bra, oppgi posisjonen min og forte meg ut igjen fordi de det var mye vind </p>
+<p>En dag jeg kjedet meg fordi det ikke var noen vind og de atmosfæriske forholdene var gode snakket jeg med litt forskjellige folk bla. annet en på Falklands øyene og en base i Antarktis. </p>
+<p>En annen kontakt jeg hadde som er ganske spesiell var i byen Akita helt nord i Japan. Jeg befant meg da 10450 n.m (19354 k.m)  SW for Japan og siden den lengste distansen mellom to punkter på jordas overflate ikke kan overstige mer enn 10800 n.m var dette en spesiell kontakt. Etter at jeg kom til Cape Town sendte jeg fyren en epost og han var en radiofreak og var helt frelst siden det var første gang han hadde snakket med noen så nøyaktig på andre siden av kloden. Jeg var da 1250 n.m fra noe som helst landfastpunkt så om denne radiofrelste japaneren noen gang skal få seg en slik kontakt igjen så må det være en båt, men det er svært lite sannsynlig siden det er så si ingen båter der nede jeg var.  </p>
+
+
+
+
+<h2>HÅPET - Kapp det gode håp!</h2>
+<p>Det største problemet etter Tristan var at vi hadde svært lite strøm. På Tristan fikk jeg start på motoren, og ladet batterier i 24 timer. Etter ca. 24 timer prøvde jeg å starte motoren igjen, men det gikk svært dårlig. På dette tidspunktet var også vindgeneratoren gått til helvete. Jeg hadde da bare solcelepaneler å lade med og siden 23. Juni er den dagen med minst sol på den sydlige halvkule og siden det stort sett var overskyet hjalp de svært lite. Før jeg fikk fikset vindgeneratoren håndstyrte jeg noen timer daglig med slepegeneratoren for å lage strøm, men det ble fort kjedelig. </p>
+
+
+<img src="div1_12s.jpg" link="div1_12.jpg" pos="left" height="180">Vindgenerator full av Korrodering.</img>
+<p>En dag med lite vind og etter å ha lekt balanse mekaniker godt fastspent fikk jeg demontert vindgeneratoren. En vindgenerator lager vekselstrøm og inni vindgeneratoren er det en konverter fra AC til DC, dette var selvfølgelig ikke pakket inn i noe som helst beskytelse. Det hadde kostet produsenten noen ekstra få kroner og pakke alle de elektroniske komponentene inn i epoxy eller noe slikt, men det var de ikke. Strøm og saltvann lager fort korrodering og dårlig kontakt etter hvert var .pinnene. på de elektroniske komponentene korrodert bort. Ut i fra selve generatoren kom det tre ledninger med vekselstrøm. </p>
+<p>Inni slepegeneratoren var det en samme sak som mekka om vekselstrøm til likestrøm. Denne kunne vi bruke, men siden vindgeneratoren i praksis snurrer rundt 360 grader og vi nå trengte 3 ledninger ut i fra den i stedet for to ble nå vindgeneratoren manuell slik at ved hjelp av en fiskestang måtte vi manuelt peke vindgeneratoren mot NW hvis en kaldfront var i anmarsj, og mot SW etter at kaldfronten var passert. Etter dette hadde vi egentlig ikke noe problem med strøm bortsett fra at batteriene ikke ville lades siden de hadde knekt etter å ha vært badet i saltvann. Mine 300Ah timer var sikkert redusert til noe slikt som 20Ah. To 12V batterier til den opp ladebare batteridrillene var også koblet til.</p>
+
+<img src="div1_05s.jpg" link="div1_05.jpg" pos="right">Ruta.</img>
+<p>På Tristan ga jeg og mekanikeren motoren 24Volt fordi batteriene han hadde med seg også var dårlige. Dette var en tabbe. Glødepluggene til motoren brant opp pga dette. Jeg visste at jeg kanskje muligens kunne få start på motoren, og det å seile mot et ukjent kontinent som beskrives som et av verdens farligste områder på de 5 hav hadde jeg liten lyst til.</p>
+<p>Tre dager før vi ankom Cape Point hadde vi fire galewarnings på rad og vindgeneratoren mekka godt og vel 8-10 ampere hvis den ikke var under vann. Så ved å koble sammen batteriene til 24 Volt ved hjelp av de vanlige batteriene og drill batteriene visste jeg at jeg kanskje hadde en liten sjanse til å få start på motoren. </p>
+
+<p>Problemet var at det var ca. 8 grader i kjølsvinet, men etter lang tankevirksomhet kom jeg frem til en løsning jeg mente var god. Bønder tenner bål under motoren på traktoren på vinteren, men det er et dårlig alternativ i en båt! </p>
+
+<p>Vi trengte følgende saker og ting: Fire underbukser, en gryte, 4 liter vann, kakkerlakkspray og byssa. I to timer kokte jeg underbukser som jeg la strategisk rundt motoren. Da vi mente tiden var inne sprayet vi superbrannfarlig og supergiftig kakerlakk spray inn i luft inntaket og samtidig satte strøm på start motoren. Motoren startet etter få sekunder, og vi hadde den vanlige .krigsdansen. på dekk til albatrossenes store fortvilelse. Nå hadde jeg 300 liter diesel igjen så nå var det bare å la motoren gå, og full vri på stereoen. Albatrossene ble da enda mer fortvila. Vi kunne tom. bruke radar. Kjøle ned de to siste cola boksene i kjøleboksen som ikke hadde vært i bruk på to måneder. Strøm er en deilig luksus! </p>
+
+<p>Jeg så skip langs kysten av Brasil og det siste så jeg ti dager etter jeg forlot Rio, det var en russisk frakte skip som hadde hammer og sigd malt på pipa og en rød stjerne på styrhuset. Det neste var når jeg krysset shippingruta 24 timer før jeg kom frem til Afrika, og det så jeg kun elektronisk (radar) fordi det var store bølger og mye vind. Jeg kalte dem opp og lurte på om de så meg i dette været og de kunne se et hvitt lys av og til, vi var da 0.8 n.m fra hverandre. De hadde hatt Radar kontakt med meg de siste 3 n.m, og det er godt å vite. Jeg fikk dem først inn på Radaren da vi var 1.2 n.m fra hverandre, jeg hadde en mistanke om at radar antenna mi er for lav i mye sjø og fikk nå bekreftet det så et av punktene på lista er flytta antenne høyere, men det verste var at jeg ikke kunne visuelt se skipet selv om det var bare 1500 meter unna og skipet var 450 fot! </p>
+
+<p>Det blåste som vanlig 35-40 knop fra SW og vi nærmet oss "20 miles of the continental shelf" hvor "freak abnormal waves" kan oppstå i "SW gales". Jeg visste at kulingen holdt på ebbe ut og at det var noen dager før neste kaldfront kom så jeg la oss midlertidig over på en litt annen kurs slik at vi holdt større avstand fra "the continental shelf". Jeg hadde ikke etter 68 dager på havet, kjempet meg igjennom stormer tenkt å "føkke opp" alt nå. Noen timer fra eller til hadde svært lite å bety. Når vinden løyet noe la jeg om kursen mot "Håpet". </p>
+
+<p>Siden jeg nå vet hvordan Rozinante oppfører seg i mye vind og digre bølger, kunne jeg faktisk merke at bølgene var annerledes da vi nærmet oss "the continental shelf".</p>
+
+<p>Natta gikk, og det ble ikke mye søvn denne natta. Vi måtte holde utkikk holde oss på rett kurs. Navigasjonsmessig har det siden menneskene begynte seile rundt Cape Area. Vært sagt at hvis du kommer fra SW og skal til Cape Town må du nærme deg Cape Point fra SSW. Ellers kan du bli tatt av Aghulas Current/Bengula Current og bli fraktet rett forbi Cape Town og ende opp i Saldanha Bay som ligger en 70 n.m nord for Cape Town.</p>
+
+<p>Etter hvert som vi nærmet oss Afrika våknet VHF radioen til liv igjen denne hadde vært helt død på Kanal 16 de siste 2 månedene bortsett fra på Tristan. Første gang var det et navigasjonsvarsel fra et seismologisk fartøy som leita etter olje utenfor Cape Point. Nordmenn har en spesiell aksent når de snakker engelsk, og i min iver etter å snakke Norsk (Jeg hadde kun snakket to minutter norsk på 70 dager!!) kalte jeg opp fartøyet og spurte om fyren var Norsk, og det var han! Etter samtalen så jeg også fartøyet. Det ser ut til at vær gang vi krysser et hav skal første personen som er innefor en normal rekkevidde være Norsk. Slik som på Fernando da vi møtte på nordmannen Rune. </p>
+
+
+<img src="cape1_03s.jpg" link="cape1_03.jpg" pos="left">Håpet.</img>
+<img src="cape1_04s.jpg" link="cape1_04.jpg" pos="left">Snart fremme i AFRIKA.</img>
+<p>I løpet av morgenkvisten begynte ting å skje. Kontinentet Afrika dukket plutselig opp i horisonten. Mobiltelefonen fikk dekning. Lokale fiskebåter trafikkerte området, og etter hvert fikk jeg øye på Fyrtårnet på Cape Point som er syd-afrikas mest besøkte turist attraksjon. </p>
+
+<p>Kystværmeldingen for Orange River til Cape Aghulas og 50 n.m offshore lovte en SW 25 kts vind og en .rough wave warning. mellom Cape Point and Danger point, så lenge vinden var i ryggen så var det ikke no problem. Dessuten var det .bare. meldt 5 meter bølger. False Bay som vi skulle treffe har Cape Point på den vestlige siden og Die Punt på den østlige midt i den 15 n.m brede .inngangen. så ligger Rocky Bank som er et .area to be avoided. hvis det er en slik "rough wave warning"</p>
+
+
+<img src="cape1_02s.jpg" link="cape1_02.jpg" pos="left">Kart</img>
+<p>Die punt og Danger Point som ligger litt lengre øst en Die Punt har navnene sine da mange skip som var .en route. fra det Indiske hav til Atlanterhavet tok feil av Die Punt/Danger Point med Cape Point. Det resulterte i at de seilte Nord over alt for tidlig og i verste fall .kræsja. de inn i Cape Point og sank. </p>
+<p>Vi passerte enkelt alle disse farene og jeg er glad for at vi ikke ankom Cape Point noen dager tidligere, for det hadde ikke vært kult å seile inn i False Bay i en SW 35-40 og 8 meter bølger så sånn sett var vi heldige. I mørket fant vi frem til yacht klubben, men med god hjelp fra noen på Yacht klubben som visste at jeg kom.</p>
+
+<p>Etter at vi passerte øst for 18 grader og 20 minutter vest så var vi vel også kommet inn i et nytt hav. Geografene krangler fremdeles om skille mellom Atlanterhavet og det Indiske hav er ved Kapp det gode håp eller om det er ved Cape Aghulas som er Afrikas sydligste punkt. Det er fremdeles et ubesvart spørsmål, men turistnæringen har slagordet .Cape Point . Where two oceans meet. så da var vel turen over Atlanterhavet .innom. South Atlantic Ocean, Southern Ocean og Indian Ocean for å snakke teknisk.</p>
+
+<block>
+<img src="cape1_06s.jpg" link="cape1_06.jpg" pos="left" height="180">Brigitte.</img>
+<img src="cape1_07s.jpg" link="cape1_07.jpg" pos="left" height="180">Brigitte av St. Helean.</img>
+<img src="cape1_08s.jpg" link="cape1_08.jpg" pos="left" height="180">AFRIKA - Cape of Good Hope!</img>
+<img src="cape1_09s.jpg" link="cape1_09.jpg" pos="left" height="180">69 dager = Slitasje!</img>
+<img src="div1_02s.jpg" link="div1_02.jpg" pos="left" height="180">På vei til den sydøstlige halvkule.</img>
+<img src="div1_06s.jpg" link="div1_06.jpg" pos="left" height="180">Vind i May/Juni.</img>
+<img src="div1_08s.jpg" link="div1_08.jpg" pos="left" height="180">Sammenligning av værstatstikker mellom Syd afrika og Nordsjøen.</img>
+<img src="div1_09s.jpg" link="div1_09.jpg" pos="left" height="180">Været.</img>
+<img src="div1_11s.jpg" link="div1_11.jpg" pos="left" height="180">Nye metoder må til.</img>
+</block>
+
+
+
+
+<h2>Simonstown - Cape Town, Republic of South Africa</h2>
+
+<p>Vi ankom False Bay Yacht Club kl. 1900Z 26. Juni 2004. Jeg likte svært dårlig datoen, for 26. Juni 2002 sank VG-Jolla, men på den annen side var det jo tross alt Kapp Det gode Håp vi kom til. Jeg er svært lite overtroisk, men noen datoer liker jeg svært dårlig av ulike årsaker.  </p>
+<p>Her fikk jeg lånt 50 lokal penger av den lokale bartenderen Levelin som er 21 år. Jeg har problemer med å utale navnet hans, så jeg kaller ham "Cape Leeuwin".  Jeg har hengt mye sammen med Cape Leeuwin siden. Cape Leeuwin prøver å fikse båt, studere og jobbe, og han får det stort sett til. Cape Leeuwin har seilt til Europa via Karibien, og fikser nå båt slik at han og faren kan ta seg en tur østover og opp i det indiske hav. Etter noen måneder har han planer om å overta båten fra faren. Hvordan det går, vil tiden vise. </p>
+<p>"Cape Leeuwin" har også klart sjarmere en 16 år gammel jente som han har problemer med å bli kvitt og det er mer slitsomt enn å pusse båt, studere og jobbe mener han. Av og til kommer han til Rozinante for å gjømme seg. </p>
+
+<img src="cape1_05s.jpg" link="cape1_05.jpg" pos="left">Daniel.</img>
+<p>I løpet av .kvelden. møtte jeg Dan. Dan reiste fra Florida med sine foreldre når han var to år gammel, etter endt jordomseiling kom han tilbake, og i en alder av 16 år satte han kursen alene mot Jamaica. Her tilbrakte han noen dager i fengsel fordi han ikke var gammel nok til å seile alene mente myndighetene. Etter noen forhandlinger mellom de involverte myndigheter ble han .persona non grata (eller hva det heter). og tauet ut i internasjonalt farvann. Her ventet US Coast Guard, men i følge De forente stater kunne han seile hvilken båt han ville siden han hadde bil lappen. Han seilte gjennom Panama. Da han krysset stillehavet alene i en alder av 16 ble han den yngste som har krysset et verdenshav. I Australia satt han en måned i fengsel fordi han ikke hadde visum og på den tiden hadde Australia en teit lov og skulle statuere et eksempel. Dan ble avbildet på førstesiden i New York Times, Washington Post og Australias største avis. Loven ble forandret og Dan ble sluppet ut. I india ble han pengelens og måtte seile nonstop til Syd Afrika for å skaffe seg en jobb.  Daniel er nå 31 og har kjøpt seg en svær jeep og skal nå på tur i gjennom Afrika .You can.t see Africa from a boat., men et av hans største problemer er at han fremdeles kun har Amerikansk statsborgerskap og i enkelte land i Afrika er det ikke helt bra. </p>
+<p>I Juli for to år siden hentet han .Bridgette. fra Natal og vi har hatt mye å snakke om siden begge har blitt slått flate, vært noen få timer på Tristan og vi seilte begge midt på vinteren. Bridgette var i en elendig forfatning og hans tur var et helvete. </p>
+
+
+<img src="cape1_01s.jpg" link="cape1_01.jpg" pos="left">Halvnorske Tore.</img>
+<p>Gjennom Daniel har jeg møtt Tore. Tore er 30 og er halvt Norsk, og bor noen km. Fra Simonstown. Tore kan ikke sitte stille og nekter å bli voksen. Tore har seilt mange mil, og prøver nå å få seg yachtmaster kurs så han kan være .delivery skipper. for Tore er Norsk og nordmenn hører hjemme på havet mener han. Tores far og hans 4 norske brødre er velkjente i Simonstown fordi de stort sett gjorde som de ville, og det har Tore arvet. Tore bor hjemme sammen med sin mor, og noen dager ser vi på TV med engelske serier, filmer og programmer, og spiser hjemmelaget middag. Tore var i fotsoldat i militæret i Angola. Det har satt sine spor, men Tore takler dette bedre enn de fleste.  </p>
+<p>Ellers er Syd-Afrika et bra land selv om mange ting er helt på trynet, og ting har ikke forandret seg så mye siden demokratiet ble innført. De har en lang "backlog".  </p>
+
+<block>
+
+<h2>Oppsumering - Sum av sumarum</h2>
+
+<p>Hele seilasen ble en utfordring jeg aldri kommer til å glemme, og jeg lærte en hel masse. Jeg gjorde noen feil, men jeg gjorde også mye riktig. Jeg traff begge målene (Tristan og False Bay) og det er ikke så verst. Etter å ha seilt under slike forhold vil jeg tilbake for en seilas gjennom "Southern Ocean" er helt, helt annerledes. Nå vet jeg alle tingene jeg gjorde feil så med et vindror og en del vedlikehold samt litt endring av riggen så er Rozinante en perfekt båt for slik seilas. </p>
+<p>I løpet av tiden jeg har vært i Cape Town er det to båter som har kommet fra Brasil. Den ene endte opp i Luderitz i Namibia som ligger 450 n.m nord for Cape Town. Dette pga feilnavigasjon i forhold til vær, strømforhold og vind, og skipperen skulle visstnok være en erfaren seiler som hadde levert 9 båter fra Cape Town til Karibien, men dette var den første motsatt vei. Turen tok dem 62 dager.</p>
+<p>Det siste jeg hørte om den andre er at den lå 300 n.m vest for Cape Town og er en kattemaran. Med to defekte gir-bokser og kun ei stormfokk igjen av seilene. De andre er blåst i stykker, hvor lang tid de har brukt vet jeg ikke. Dette var en helt ny kattemaran som skal leveres fra Florida til Cape Town. </p>
+<p>Begge de to båtene satte MRCC (Marine Rescue Corordination Center) i Cape Town i beredskap. Den første fordi de oversteg sin anslåtte ETA med 25 dager og hadde kun VHF ombord. Den andre fordi de rett og slett har problemer med å komme fremover med bare et seil, og når de nærmer seg kysten av Afrika vil sannsynligvis Bengula strømmen på 1-2 knop føre dem nordover og vekk fra Cape Town, hvis de ikke er heldige med vinden.</p>
+<p>Nå er det en god del vedlikehold som skal gjøres før Rozinante blir klargjort for neste seilas. Hvor dette blir er for tiden ikke helt bestemt!</p>
+
+<p><b>Romersk ordtak: "Navigare necesse est, vivere non est nevesse" som betyr noe sånnt som " Et liv uten seil, er et liv uten mening".</b></p>
+
+
+
+<h2><a href="?read=0029_cape2.xml">&lt;- Del II</a></h2>
+
+</block>
+
+
+</article>

@@ -1,0 +1,7 @@
+Posisjonsplotting av Rozinante
+Stig
+<p>Et system for plotting av Rozinantes posisjon på kart er under utarbeiding. Det som er laget til nå kan du se ved å trykke på "posisjon" helt oppe til høyre (eller trykke <a href="map.php">her</a>).</p>
+<p></p>
+<p>Systemet bruker posisjonene som mottas hver andre time og er de samme som vises oppe til høyre. På selve kartet vises også data for siste posisjon.</p>
+<p></p>
+<p>Med denne plottingen blir det lettere å følge med på hvor Staale faktisk er istedet for bare å se på posisjonen som for folk flest sier lite.</p>

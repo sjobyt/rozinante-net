@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<article id="kaja">
+<head>Kaja</head>
+
+
+<img src="kaja_logo.jpg" link="" pos="logoright"></img>
+<p>KAJA (eller KAJA02) er internett-serveren vår. Den er, som du kan se av bildet under, et samensurium av deler inni. Selvfølgelig alltid satt sammen og på plass i en fei opp igjennom tiden når Staale har hatt tid til å snekre på den. Nå er den på det som må regnes som rene pleie hjemmet - nemlig i god forvaring hjemme hos Stig. Her skal den gjennomgå en betydelig opprydding både fysisk og virtuelt.</p>
+
+
+<p>I mellom tiden er det en liten vanlig PC (233MHz Pentium MMX) som tar seg av å vise frem internett-sidene du sitter å leser.</p>
+
+<br/>
+
+<block>
+<p><b>Foreløpige tekniske data for Kaja02:</b><br/>
+
+Dual P3 500MHz prossessor<br/>
+512 MB RAM<br/>
+X antall disker som blir en tilsammen ukjent mengde lagrinsplass (En viktig grunn til at den er til "service", siden flere av diskene enten ikke er klargjorte til bruk eller er ustabile).<br/></p>
+
+<p>Foruten diskene er KAJA veldig stabil, den hadde vært "oppe" (PÅ som mange vil si) i over et år i strekk, da Staale kom borti strøm knappen. Det klarer selv ikke KAJA å gjøre noe med.<br/>
+Det kjøres for øyeblikket SUN OS 8, men skal nå byttes til hjertebarnet til Stig (og MANGE andre) Linux. Den midlertidige serveren som sidene vises fra nå kjører også Linux.
+</p>
+</block>
+
+<img src="kaja1_small.jpg" link="kaja1.jpg" pos="picleft"></img>
+<img src="kaja2_small.jpg" link="kaja2.jpg" pos="picleft"></img>
+
+</article>

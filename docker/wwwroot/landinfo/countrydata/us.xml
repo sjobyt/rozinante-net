@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+
+<country code="us">
+
+
+<eval>
+<table>
+<tr><th>Ankomst dato:</th><td>14 April</td></tr>
+<tr><th>Ankomst sted:</th><td>New York</td></tr>
+<tr><th>Avreise dato:</th><td>28. April</td></tr>
+</table>
+
+<head>Et must</head>
+<p>USA er et must, vi er påvirket av denne livstilen og dette landet om vi vil eller ikke. Noen av oss mer enn andre. Fascinerer gjør det med alle og enhver. Det blir antakelig ubeskrivelig å selv se frihetsgudinnen heve seg i horisonten. Se byen du har sett så mange ganger på TV og på film som du ikke kan telle engang. Det blir helt rått, New York og USA er antakelig en tur som kommer til å bli husket helt alene!</p>
+
+<head>Noe spesielt med å besøke verdens politi</head>
+<p>USA utmerker seg liksom uansett hva det gjelder. De har uansett den største, minst, lengst, korteste, tyngste osv! Ikke minst skal de ha det til å ha verdens beste hær, som de ikke er redd for å bruke. Vi får håpe at vi ikke får noen problemer med verken diplomati eller "politiet" som i form av kystvakt kommer til å bli et vanlig syn allerede fra i det karibiske hav. Samtalen til USA`s ambassade blir interessant?</p>
+
+</eval>
+
+
+<data>
+
+
+<table>
+<caption>Diplomati</caption>
+<tr><th>Visum</th><td>Nordmenn som ikke kommer med et vanlig passasjerfly må ha Visum for å oppholde seg i hvilken som helst del av USA.</td></tr>
+<tr><th>Ambassade i Norge eller tilsvarende</th><td>
+Drammensveien 18<br/>
+0244 Oslo<br/>
+Telefon: 22 44 85 50<br/>
+Faks: 22 43 07 77 / 22 43 83 77<br/>
+<href>http://www.usa.no/</href></td></tr>
+<tr><th>Vår ambassade i landet eller tilsvarende</th><td>
+2720, 34th Street N.W.<br/>
+20008-2714 Washington D.C.<br/>
+Telefon: +1 202 333 6000<br/>
+Telefaks: +1 202 337 087<br/>
+<href>http://www.norway.org/</href> emb.washington@mfa.no</td></tr>
+</table>
+
+<table>
+<caption>Geografi</caption>
+<tr><th>Lokasjon</th><td>Canada i Nord, Atlanterhavet i øst, Mexico i Sør og Stillehavet i vest. Kom sikkert som et sjokk på de fleste.. USA holder som kjent en ganske lav profil på verdens basis.</td></tr>
+<tr><th>Tidssone</th><td><trans type="timezone"></trans></td></tr>
+<tr><th>Utstrekning</th><td>3 618 000 km²</td></tr>
+<tr><th>Hovedstad</th><td>Washington DC</td></tr>
+<tr><th>Aktuelle byer</th><td>New York</td></tr>
+</table>
+
+
+<table>
+<caption>Befolkning</caption>
+<tr><th>Innbyggere</th><td>ca. 280 Millioner!</td></tr>
+<tr><th>Språk</th><td>Gebrokkent engelsk også kalt amerikansk. ;) </td></tr>
+<tr><th>Religioner</th><td>Sikkert alle man kan tenke seg, men med en overvekt av protestanter og romersk katolske troende.</td></tr>
+</table>
+
+<table>
+<caption>Valuta</caption>
+<tr><th>Aksepterer</th><td>Overraskende nok US Dollars (USD)</td></tr>
+<tr><th>Prisnivå</th><td>Relativt dyrt, men veldig forskjellig fra sted til sted og fra ting til ting.</td></tr>
+<tr><th>Tipsing</th><td>Lønnene i service yrker er dårlige og det forventes ca 15% i tips.</td></tr>
+<tr><th>Veksling</th><td>Som i Norge</td></tr>
+<tr><th>Minibank/kredittkort</th><td>Like enkelt som i Norge</td></tr>
+</table>
+
+
+<table>
+<caption>Sikkerhet</caption>
+<tr><th>Sykdommer</th><td>Du er kommet til landet der du nesten får blø i hjel hvis du ikke kan betale for deg? Ellers er det Europeisk standard.</td></tr>
+<tr><th>Naturkatastrofer</th><td>De har vel nesten alt en kan tenke seg i dette landet. Men i New York er det vel relativt trygt.</td></tr>
+</table>
+
+<table>
+<caption>Attraksjoner</caption>
+<tr><th>The big apple</th><td>Som de skriver på Lonely Planet, byen er så overveldende at en vet nesten ikke hvor en skal begynne engang. Definitivt byen over alle byer.</td></tr>
+<tr><th>9/11</th><td>Ground Zero for de sinnsyke hendelsene 11 September for snart et og et halv år siden. Det skal gå enda et år før vi er der. Er vel til og med begynt å bygge opp igjen da, siden tegningene til de nye byggene nylig ble bestemt og godkjent. Kan bli spennende, og nostalgisk! Spesielt, uten tvil!</td></tr>
+</table>
+
+
+<title>Mer informasjon</title>
+<list type="links">
+<li><link href="http://www.odci.gov/cia/publications/factbook/geos/us.html">CIA - The World Factbook</link></li>
+<li><link href="http://www.ferieguiden.no/kontinent/nordamerika/usa/default.asp">Ferieguiden</link></li>
+<li><link href="http://www.lonelyplanet.com/destinations/north_america/new_york_city/">Lonely Planet</link></li>
+</list>
+
+</data>
+
+</country>

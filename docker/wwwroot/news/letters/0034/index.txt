@@ -1,0 +1,2 @@
+info: Auckland Island_Auckland Is._02 Jan 2006 08:00
+docu: auckland.xml_Del 1

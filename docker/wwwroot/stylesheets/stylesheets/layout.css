@@ -1,0 +1,249 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    color: black;
+    background-color: #c0c000;
+    font-family: verdana, sans-serif;
+}
+
+#article {
+    position: absolute;
+    top: 0px;
+    right: 250px;
+    left: 0px;
+
+    padding: 0px;
+    background: #f4f3be url("../graphics/decoration.png") repeat-y;
+    border-right: solid 1px #84832e;
+    border-bottom: solid 1px #84832e;
+
+
+
+}
+
+#articlecontent {
+    margin-left: 40px;
+    margin-bottom: 10px;
+    padding-top: 15px;
+    padding-left: 18px;
+    padding-right: 20px;
+    background: url("../graphics/vert-gradiant.png") repeat-x;
+
+
+}
+
+#menu {
+    background: url(../graphics/logo4.png) no-repeat;
+    width: 250px;
+    position: absolute;
+    right: 0px;
+    background-color: #c0c000;
+    border-top: 1px solid #877656;
+
+}
+
+#wrap {
+    position: relative;
+    width: 100%;
+}
+
+
+#bar {
+    position: relative;
+    height: 100px;
+    background: #aaa972 url(../graphics/stripe.png);
+    margin: 0px;
+    overflow: visible;
+}
+
+#gridmap {
+    height: 100%;
+    width: 333px;
+    background-image: url('../graphics/grid_map.png');
+    z-index: 0;
+}
+
+#report {
+    position: absolute;
+    top: 0px;
+    width: 350px;
+    height: 45px;
+    left: 0px;
+    z-index: 1;
+    font-family: sans-serif;
+    font-size: 8pt;
+    background-image: url("../graphics/barback_dark.png");
+    background-repeat: no-repeat;
+}
+
+#report p {
+    margin: 2px;
+    font-family: bold;
+}
+
+#position {
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    border: 1px dashed #808080;
+    color: #505050;
+}
+
+#position caption {
+    font-weight: bold;
+    color: #000000;
+}
+
+
+
+#position table {
+    color: #000000;
+    font-size: 9pt;
+    font-family: sans-serif;
+}
+
+#gridmap {
+    position: absolute;
+    right: 0px;
+    top: 1px;
+}
+
+#eng {
+    padding: 0px;
+    margin: 0px;
+    border: 1px solid black;
+}
+
+#menucontent {
+    margin-top: 113px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+#menu img {
+    margin: 0px;
+    margin-top: 10px;
+    border-left: solid 1px #84832e;
+}
+
+
+div.contentblock {
+    clear: both;
+
+}
+
+div.menublock {
+    background: #b5b203 url(../graphics/section_top.png) top no-repeat;
+    border-bottom: solid 3px #a09e09;
+    padding-top: 2px;
+    margin-top: 10px;
+    padding-left: 5px;
+    padding-bottom: 10px;
+}
+
+div.menublock {
+    padding-left: 0px;
+}
+
+div.menublock dd {
+    margin-top: 0px;
+}
+
+
+#bar div.graphics {
+    background: url('../graphics/barback.png') no-repeat;
+    height: 100%;
+    position: relative;
+}
+
+#tabmenu {
+     position: absolute;
+     left: 40px;
+     bottom: 0px
+}
+
+#tabmenu a {
+    letter-spacing: 1px;
+    color: #dedecf;
+    background-color: #77765c;
+    font-size: 8pt;
+    border-left: 1px solid #3f3e31;
+    border-top: 1px solid #3f3e31;
+    border-right: 1px solid #3f3e31;
+    text-decoration: none;
+    padding-left: 4px;
+    padding-right: 4px;
+    margin-right: 2px;
+}
+
+#tabmenu a.current {
+    background-color: #bebd93;
+    color: #3f3e31;
+    border-bottom: 1px solid #bebd93;
+}
+
+
+#tabmenu a:hover {
+    background-color: #969473;
+}
+
+#tabmenu a.current:hover {
+    background-color: #bebd93;
+}
+
+
+#tabmenu li {
+    display: inline;
+    margin: 0px;
+}
+
+#tabmenu ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+div.horizline {
+    clear: both;
+    height: 5px;
+    width: 100%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-bottom: 1px dashed black;
+}
+
+div.menusect {
+    background: url(../graphics/sect_title.png) no-repeat;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+    padding-top: 3px;
+    border-bottom: 1px dashed #5b570d;
+}
+
+div.menusect p {
+        font-weight: bold;
+        margin-top: 0px;
+        color: #5b570d;
+}
+
+
+
+#tabmenu a.noborder {
+    background: none;
+    border: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+#sponsor {
+    margin: 0px;
+    border-top: 3px solid #b2af85;
+    background-color: #ebe6b3;
+    padding: 3px;
+    border-top: solid 1px #f9f6d9;
+    border-left: solid 1px #f9f6d9;
+    border-right: solid 1px #d1c887;
+    border-bottom: solid 1px #d1c887;
+}

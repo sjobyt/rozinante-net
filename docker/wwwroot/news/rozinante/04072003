@@ -1,0 +1,27 @@
+<!--1057342274--><!--Fortsatt mye igjen, men ting må tas i rekkefølge!--><!--Paul-->
+
+<p>Det er typisk sånn når det er ting som må gjøres at det det aller
+meste på skje i en bestemt rekkefølge. Alt avhenger liksom av
+hverandre. Bommen og gaffelen til storseilet er nesten helt ferdige, men
+vi tør ikke sette på alle treklossene og beslagene før vi får
+seilene, så vi er sikre på at det passer. Dermed står vi fast der.
+</p>
+
+<p>Mens vi venter på seilene er det masse annet vi kunne gjort og
+gjør. En viktig ting er å få begynt å pakke ting ombord, men det kan vi ikke gjøre før innredningen er ferdig. Den blir ikke ferdig før vi får snekker andersen i drift igjen etter Quart. Så at ting må skje i rekkefølge er hemmende, men det er vel sånn det alltid er. </p>
+
+<p>Maten ble bestilt i dag og blir levert på mandag, det blir spennende
+å se dette fjellet av mat! Har vi plass montro?! Lista med mat kan du finne her(excel dokument) <a href="maten.xls">maten vi har bestilt på Tømmerstø brygge</a> </p>
+
+<? insert_image($thumb_dir . "gaffel_thumb.jpg", "", $pic_dir.
+"gaffel.jpg", "picleft", "") ?>
+<p>Inne på JK(Jens Knutsen Mek) er det bommen og gaffelen til storseilet som "produserers" for tiden. De begynner å nærme seg ferdig, og er kommet et langt stykke fra  6 meter lange 8 kantede trestykker.</p>
+
+<div class="contentblock">
+
+<? insert_image($thumb_dir . "stolt_thumb.jpg", "", $pic_dir. "stolt.jpg", "picleft", "") ?>
+<p>Ragnar er tydlig stolt av sitt verk, noe han burde være! Tviler på at alle som har laget bom og gaffel til en seilbåt har fått like bra førsteresultat.. Den gamle gaffelen ligger ses på venstre side.</p>
+
+<p>Vi har helt glemt å presentere gjesteboka vår, den er kommet helt uten presentasjon. Uansett er det bare å skrive for den som måtte ønske, er det spørsmål skal vi gjerne svare så godt vi kan! Du finner den her: <a href="guestbook.php"> Gjesteboka vår!</a>
+
+</div>

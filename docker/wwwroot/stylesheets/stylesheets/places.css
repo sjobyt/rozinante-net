@@ -1,0 +1,14 @@
+#display {
+    position: absolute;
+    top: 0px;
+    right: 250px;
+    left: 0px;
+
+
+    padding: 0px;
+
+    border-right: solid 1px #84832e;
+    border-bottom: solid 1px #84832e;
+
+
+}

@@ -1,0 +1,26 @@
+div.sect {
+    background-color: #d1c887;
+    padding: 2px;
+    margin-bottom: 12px;
+}
+
+
+div.sect h2 {
+    margin: 5px;
+}
+
+div.link {
+    width: 200px;
+    background-color: #ebe6b3;
+    margin: 2px;
+}
+
+div.link p {
+    margin: 5px;
+}
+
+div.column {
+    margin: 6px;
+    float: left;
+
+}
