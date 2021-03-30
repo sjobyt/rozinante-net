@@ -1,3 +1,4 @@
+# Docker file for PHP Apache 2 and Rozinante.net website with SSL selfsigned support
 FROM php:5.6-apache
 
 # Container configuration
