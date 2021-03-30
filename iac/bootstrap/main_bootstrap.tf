@@ -103,7 +103,7 @@ module "ecr" {
 resource "github_actions_secret" "ecrname" {
   repository       = var.github_repo
   secret_name      = "TF_VAR_AWS_ECR_NAME"
-  plaintext_value  = module.ecr.repository_name
+  plaintext_value  = module.ecr.repository_url
 }
 
 # Add Cloudflare Zone ID To Github
