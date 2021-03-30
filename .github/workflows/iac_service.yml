@@ -1,0 +1,71 @@
+name: 'Terraform'
+
+on:
+  push:
+    branches:
+    - master
+    paths:
+    - iac/service/**
+  pull_request:
+
+jobs:
+  terraform:
+    name: 'Terraform'
+    environment:
+      name: awsprod
+      url: https://github.com
+    runs-on: ubuntu-latest
+    env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        TF_VAR_aws_ecr_name: ${{ secrets.TF_VAR_AWS_ECR_MAME }}
+        TF_VAR_aws_region: ${{ secrets.TF_VAR_AWS_REGION }}
+        TF_VAR_cidr_block: ${{ secrets.TF_VAR_CIDR_BLOCK }}
+        TF_VAR_cloudflare_secret: ${{ secrets.TF_VAR_CLOUDFLARE_SECRET }}
+        TF_VAR_cloudflare_zone_id: ${{ secrets.TF_VAR_CLOUDFLARE_ZONE_ID }}
+        TF_VAR_dns_zone: ${{ secrets.TF_VAR_DNS_ZONE }}
+        #TF_VAR_DOCKER_SSL_SECRET - Not needed in TF
+        TF_VAR_email: ${{ secrets.TF_VAR_EMAIL }}
+        TF_VAR_github_owner: ${{ secrets.TF_VAR_GITHUB_OWNER }}
+        TF_VAR_github_repo: ${{ secrets.TF_VAR_GITHUB_REPO }}
+        TF_VAR_github_token: ${{ secrets.TF_VAR_GITHUB_TOKEN }}
+        TF_VAR_name: ${{ secrets.TF_VAR_NAME }}
+        TF_VAR_namespace: ${{ secrets.TF_VAR_NAMESPACE }}
+        TF_VAR_stage: ${{ secrets.TF_VAR_STAGE }}
+
+    # Use the Bash shell regardless whether the GitHub Actions runner is ubuntu-latest, macos-latest, or windows-latest
+    defaults:
+      run:
+        shell: bash
+        working-directory: iac/service
+
+
+    steps:
+    # Checkout the repository to the GitHub Actions runner
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    # Install the latest version of Terraform CLI and configure the Terraform CLI configuration file with a Terraform Cloud user API token
+    - name: Setup Terraform
+      uses: hashicorp/setup-terraform@v1
+      with:
+        cli_config_credentials_token: ${{ secrets.TF_API_TOKEN }}
+
+    # Initialize a new or existing Terraform working directory by creating initial files, loading any remote state, downloading modules, etc.
+    - name: Terraform Init
+      run: terraform init
+
+    # Checks that all Terraform configuration files adhere to a canonical format
+    - name: Terraform Format
+      run: terraform fmt -check
+
+    # Generates an execution plan for Terraform
+    - name: Terraform Plan
+      run: terraform plan
+
+      # On push to main, build or change infrastructure according to Terraform configuration files
+      # Note: It is recommended to set up a required "strict" status check in your repository for "Terraform Cloud". See the documentation on "strict" required status checks for more information: https://help.github.com/en/github/administering-a-repository/types-of-required-status-checks
+    - name: Terraform Apply
+      if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+      run: terraform apply -auto-approve
+
