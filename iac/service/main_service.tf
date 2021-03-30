@@ -239,7 +239,7 @@ module "ecs_alb_service_task" {
   tags     = module.label.tags
 }
 
-# Cloudflare Recrods
+# Cloudflare Recrods for www and domain
 resource "cloudflare_record" "www" {
   zone_id = var.cloudflare_zone_id
   name    = "www"
