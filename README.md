@@ -4,25 +4,41 @@ Rozinante.net is a historic website named after S/Y Rozinante that was lost at s
 
 ## Background - Historic Technical overview
 
-In the early days of the Internet of Things (IoT) the communication to remote areas was limited to expensive satellite connections and HF Radio. Rozinanet.net was updated multiple times automatically over HF Radio using the PACTOR modulation. Geographic position reports and other data were sent over HF Radio and backend services parsed the data and published it automatically to the website. The webpage was written in PHP and CSS to generate dynamic html pages running on LAMP stack. Big thanks to https://github.com/hornang
+In the early days of the Internet of Things (IoT) the communication to remote areas was limited to expensive satellite connections and HF Radio. Rozinanet.net was updated multiple times from remote areas, including very close to Point Nemo https://en.wikipedia.org/wiki/Pole_of_inaccessibility over HF Radio using the PACTOR modulation. The speeds that was possible was normally around 250-800 baud. A few pictures was also sent and it could take up to an hour to send a picture of 29Kbyte. The text, pictures, position reports, and other data were sent over HF Radio and backend services parsed the data and published it automatically to the website.
+
+In addition to manual text reports over HF an onboard Inmarsat-C terminal sent position reports every 2-6 hours and updated a map on the website with the latest position and speed using PHP GD Library.txt
+
+The webpage was written in PHP and CSS to generate dynamic html pages running on LAMP stack. Big thanks to https://github.com/hornang
 
 More info see ABOUT.md
 
 ### How it worked
 
-Technical Architecture Diagram
+Technical Architecture Diagram for Text and Graphics Reports over HF
 
 ![Technical Architecture](./docs/img/rozweb1.png)
+
+
+Technical Architecture Diagram for Automatic Position Reports over Inmarsat
+
+![Technical Architecture](./docs/img/rozweb2.png)
 
 Offshore Equipment:
 
 Installed equipment in Rozinante to communicate and update the website:
 
+- Furuno (NERA) Inmarsat-C MES (Mobile Earth Station)
 - ICOM 802 HF SSB Radio
 - ICOM AT-140 Antenna Tuner
 - 5m 1-30Mhz Whip Antenna
 - SCS PACTOR Modem
 - NMEA 0183 GPS Unit + Raymarine Seatalk
+
+Position Reports sent over Inmarsat-C can be found here in UNIX Timestamp, Lat/Lon COG and SOG
+https://raw.githubusercontent.com/sjobyt/rozinante-net/master/docker/wwwroot/news/positions/positions.txt
+
+Example of an image of 29 kbyte that was sent over HF Radio from the bottom of the world.
+![Pacifci](https://www.rozinante.net/graphics/pacific/3.jpg)
 
 One of the last pictures taken of Rozinante at 30th December 2005 on The Auckland Islands 465km south of New Zealand.
 ![Technical Architecture](./docs/img/rozinante-aukland-island-20050130.jpg)
@@ -49,14 +65,3 @@ Domain rozinante.net hosted by <https://kundeweb.agdernett.no/>
 ## Github Environments
 
 Github Repo: <https://github.com/sjobyt/rozinante-net>
-
-### Github Environment: awsprod
-
-- AWS_ACCESS_KEY_ID  = ***
-- AWS_SECRET_ACCESS_KEY = ***
-- TF_VAR_NAMESPACE = roz
-- TF_VAR_STAGE = prod
-- TF_VAR_CLOUDFLARE_SECRET = ***
-- TF_VAR_EMAIL = ***
-- TF_VAR_DOMAIN_NAME = rozinante.net
-- TF_VAR_HOSTNAME = www
